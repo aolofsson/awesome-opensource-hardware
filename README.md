@@ -254,6 +254,8 @@ A curated list of awesome open source hardware tools.
   * Signoff quality STA engine used by OpenRoad
 * [opentimer](https://github.com/OpenTimer/OpenTimer)
   * High perormance static timing analysis
+* [osvvm](https://github.com/OSVVM/OsvvmLibraries)
+  * A VHDL verification framework, utility library, verification component library, and a simulator independent scripting flow
 * [qemu](https://github.com/qemu/qemu)
   * Generic and open source machine & userspace emulator and virtualizer
 * [qucs](https://github.com/Qucs/qucs)

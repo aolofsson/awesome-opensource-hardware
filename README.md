@@ -252,6 +252,8 @@ A curated list of awesome open source hardware tools.
   * SystemVerilog UVM written in Python
 * [svreal](https://github.com/sgherbst/svreal)
   * Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats
+* [renode](https://github.com/renode/renode)
+  * Generic and open source machine emulator (including multi-part and peripheral) designed to run unmodified firmware which includes co-simulation with RTL simulators.
 * [verilator](https://github.com/verilator/verilator)
   * SystemVerilog simulator and lint system.
 * [vunit](https://github.com/VUnit/vunit)

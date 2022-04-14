@@ -48,6 +48,8 @@ A curated list of awesome open source hardware tools.
   * Python based hardware design language
 * [matchlib](https://github.com/NVlabs/matchlib)
   * SystemC/C++ library of commonly-used hardware functions and components that can be synthesized by most commercially-available HLS tools into RTL
+* [matchclib_connections](https://github.com/hlslibs/matchlib_connections)
+  * SystemC library implementing latency-insensitive channels for use by High-Level synthesis tools.
 * [myhdl](https://github.com/myhdl/myhdl)
   * Python baed hardware description and verification language
 * [panda](https://github.com/ferrandi/PandA-bambu)
@@ -124,6 +126,8 @@ A curated list of awesome open source hardware tools.
   * Design platform for heterogeneous SoC architecture and IP
 * [fabulous](https://github.com/FPGA-Research-Manchester/FABulous)
   * FPGA fabric generator
+* [fftgenerator](https://github.com/ucb-bar/FFTGenerator)
+  * Berkeley FFT chisel based generator
 * [garnet](https://github.com/StanfordAHA/garnet)
   * CGRA generator
 * [gemmini](https://github.com/ucb-bar/gemmini)
@@ -142,10 +146,12 @@ A curated list of awesome open source hardware tools.
   * Princeton python based FPGA generator
 * [pymtl3-net](https://github.com/cornell-brg/pymtl3-net)
   * Parameterizable OCN (on-chip network) generator
+* [revenoc](https://github.com/aignacio/ravenoc)
+  * Configurable HDL NoC (Network-On-Chip) generator
 * [rggen](https://github.com/rggen/rggen)
   * Configuration and status register generator
 * [rocket](https://github.com/chipsalliance/rocket-chip)
-  * Rocket chip generator
+  * Rocket chip chisel based generator
 * [spiral](https://github.com/spiral-software/spiral-software)
   * FFT generator
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)

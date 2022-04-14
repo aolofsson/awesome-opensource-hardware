@@ -100,7 +100,9 @@ A curated list of awesome open source hardware tools.
 * [datc](https://github.com/jinwookjungs/datc_robust_design_flow)
   * DATC Robust Design Flow.
 * [edalize](https://github.com/olofk/edalize)
- * An abstraction library for interfacing EDA tools.
+  * An abstraction library for interfacing EDA tools.
+* [f4fpga](https://github.com/SymbiFlow/f4pga-arch-defs)
+  * Architecture definitions of FPGA hardware
 * [fusesoc](https://github.com/olofk/fusesoc)
   * Package manager and build abstraction tool for FPGA/ASIC development.
 * [hammer](https://github.com/ucb-bar/hammer)
@@ -199,6 +201,8 @@ A curated list of awesome open source hardware tools.
   * Machine Generated Analog IC Layout
 * [netgen](https://github.com/RTimothyEdwards/netgen)
   * LVS tool for comparing SPICE or verilog netlists
+* [openlane](https://github.com/The-OpenROAD-Project/OpenLane)
+  * Automated ASIC flow scripts baed on openroad, yosys, magic, netgen.
 * [openroad](https://github.com/The-OpenROAD-Project/OpenROAD)
   * Complete RTL2GDS platform
 * [phidl](https://github.com/amccaugh/phidl)
@@ -226,7 +230,7 @@ A curated list of awesome open source hardware tools.
 * [z3](https://github.com/Z3Prover/z3)
   * Microsoft research theorem prover.
 
-## Simulation
+## Simulation and Analysis
 
 * [anasysmod](https://github.com/sgherbst/anasymod)
   * Framework for FPGA emulation of mixed-signal systems
@@ -242,6 +246,10 @@ A curated list of awesome open source hardware tools.
   * Automatic generation of real number models from analog circuits
 * [ngspice](http://ngspice.sourceforge.net/)
   * Spice simulator
+* [opensta](https://github.com/The-OpenROAD-Project/OpenSTA)
+  * Signoff quality STA engine used by OpenRoad
+* [opentimer](https://github.com/OpenTimer/OpenTimer)
+  * High perormance static timing analysis
 * [qemu](https://github.com/qemu/qemu)
   * Generic and open source machine & userspace emulator and virtualizer
 * [qucs](https://github.com/Qucs/qucs)
@@ -299,3 +307,20 @@ A curated list of awesome open source hardware tools.
   * Digital timing diagram rendering engine
 * [wavedrompy](https://github.com/wallento/wavedrompy)
   * Python comptabled Wavedrom module
+
+## Other Awesome Lists
+
+* [ben-marshall](https://github.com/ben-marshall/awesome-open-hardware-verification)
+  * Hardware verification
+* [clin99](https://github.com/clin99/awesome-eda)
+  * EDA projects
+* [delftopenhardware](https://github.com/delftopenhardware/awesome-open-hardware)
+  * Open hardware materials
+* [hdl](https://github.com/hdl/awesome)
+  * Hardware description resources
+* [pkuzjx](https://github.com/pkuzjx/eda-collection)
+  * Open source EDA resources
+* [drom](https://github.com/drom/awesome-hdl)
+  * HDL languages
+* [mattvenn](https://github.com/mattvenn/awesome-opensource-asic-resources)
+  * ASIC resources

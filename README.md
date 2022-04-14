@@ -119,19 +119,19 @@ A curated list of awesome open source hardware tools.
 ## Generators
 
 * [bag](https://github.com/ucb-art/BAG_framework)
-  * Berkeley analog generator
+  * Berkeley analog layout generator
 * [esp](https://github.com/sld-columbia/esp)
   * Design platform for heterogeneous SoC architecture and IP
 * [fabulous](https://github.com/FPGA-Research-Manchester/FABulous)
   * FPGA fabric generator
 * [fftgenerator](https://github.com/ucb-bar/FFTGenerator)
-  * Berkeley FFT chisel based generator
+  * Chisel based FFT generator
 * [garnet](https://github.com/StanfordAHA/garnet)
   * CGRA generator
 * [gemmini](https://github.com/ucb-bar/gemmini)
-  * Berkeley spatial array generator
+  * Spatial array machine learning accelerator generator
 * [lake](https://github.com/StanfordAHA/lake)
-  * Generator for synthesizable memory modules
+  * Synthesizable memory generator
 * [litex](https://github.com/enjoy-digital/litex)
   * Framework for FPGA and soc development
 * [openfasoc](https://github.com/idea-fasoc/OpenFASOC)
@@ -141,9 +141,9 @@ A curated list of awesome open source hardware tools.
 * [openram](https://github.com/VLSIDA/OpenRAM)
   * Static random access memory (SRAM) compiler.
 * [prga](https://github.com/PrincetonUniversity/prga)
-  * Princeton python based FPGA generator
+  * Python based FPGA fabric generator
 * [pymtl3-net](https://github.com/cornell-brg/pymtl3-net)
-  * Parameterizable OCN (on-chip network) generator
+  * Cornell parameterizable OCN (on-chip network) generator
 * [revenoc](https://github.com/aignacio/ravenoc)
   * Configurable HDL NoC (Network-On-Chip) generator
 * [rggen](https://github.com/rggen/rggen)
@@ -151,13 +151,18 @@ A curated list of awesome open source hardware tools.
 * [rocket](https://github.com/chipsalliance/rocket-chip)
   * Rocket chip chisel based generator
 * [spiral](https://github.com/spiral-software/spiral-software)
-  * FFT generator
+  * Spiral based FFT generator
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)
   * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
 * [tce](https://github.com/cpc/tce)
   * Application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors
 * [kaktus2dev](https://github.com/kactus2/kactus2dev)
   * Graphical EDA tool based on the IP-XACT standard
+
+## Analog Design
+
+* [xschem](https://github.com/StefanSchippers/xschem)
+  * Schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog
 
 ## Board Design
 
@@ -167,12 +172,8 @@ A curated list of awesome open source hardware tools.
   * Utility that scrubs through large sets of PDF datasheets/documents in order to extract key circuit information
 * [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
-* [skidl](https://github.com/devbisme/skidl)
-  * Python module for electronic design
-* [xschem](https://github.com/StefanSchippers/xschem)
-  * Schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog
 
-## Synthesis
+## Logic Synthesis
 
 * [abc](https://github.com/berkeley-abc/abc)
   * System for Sequential Logic Synthesis and Formal Verification
@@ -242,6 +243,8 @@ A curated list of awesome open source hardware tools.
   * Framework for FPGA emulation of mixed-signal systems
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [gem5](https://github.com/gem5/gem5)
+  * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator.
 * [icarus](https://github.com/steveicarus/iverilog.git)
@@ -278,15 +281,11 @@ A curated list of awesome open source hardware tools.
 ## Waveform viewers
 
 * [gtkwave](https://github.com/gtkwave/gtkwave)
-  * GTK+ based VCD wave viewer
+  * GTK+ based VCD waveform viewer
 * [konata](https://github.com/shioyadan/Konata)
   * Instruction pipeline visualizer for Gem5
-* [puselview](https://github.com/sigrokproject/pulseview)
-  * Qt-based LA/scope/MSO GUI for sigrok
 * [sigrok](https://github.com/sigrokproject)
   * Portable, cross-platform, sinal analysis software suite (logic analyzers, scopes, multimeters, and more)
-* [sigrok-cli](https://github.com/sigrokproject/sigrok-cli)
-  * Command line interface for sigrok
 * [simview](https://github.com/pieter3d/simview)
   * Text-based SystemVerilog design browser and waveform viewer
 * [sootty](https://github.com/Ben1152000/sootty)
@@ -340,3 +339,5 @@ A curated list of awesome open source hardware tools.
   * HDL languages
 * [mattvenn](https://github.com/mattvenn/awesome-opensource-asic-resources)
   * ASIC resources
+* [semiconduoctor-startups](https://github.com/aolofsson/awesome-semiconductor-startups)
+  * Semiconductor startups

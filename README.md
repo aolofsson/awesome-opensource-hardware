@@ -154,6 +154,8 @@ A curated list of awesome open source hardware tools.
   * FFT generator
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)
   * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
+* [tce](https://github.com/cpc/tce)
+  * Application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors
 * [kaktus2dev](https://github.com/kactus2/kactus2dev)
   * Graphical EDA tool based on the IP-XACT standard
 

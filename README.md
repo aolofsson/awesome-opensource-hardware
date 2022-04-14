@@ -10,7 +10,7 @@ A curated list of awesome (open source) hardware tools.
 * One tag line sentence per project.
 * Max 80 char line width
 
-## Compilers
+## Compiler Frameworks
 
 * [act](https://github.com/asyncvlsi/act)
   * Asynchronous circuit compiler tools
@@ -87,15 +87,8 @@ A curated list of awesome (open source) hardware tools.
 * [xls](https://github.com/google/xls)
   * Google framework for hardware synthesis
 
-## Documentation
-* [graphviz](https://github.com/xflr6/graphviz)
-  * Python library for graph cration and rendering in DOT language
-* [sphinx](https://github.com/sphinx-doc/sphinx)
-  * Document builder
-* [symbolator](https://github.com/kevinpt/symbolator)
-  * HDL symbol generator
-
 ## Build Systems
+
 * [bazelhdl](https://github.com/hdl/bazel_rules_hdl)
   * Bazel based hdl build system
 * [bender](https://github.com/pulp-platform/bender)
@@ -105,7 +98,7 @@ A curated list of awesome (open source) hardware tools.
 * [cocoon](https://github.com/pku-dasys/cocoon)
   * An infrastructure for integrated EDA
 * [datc](https://github.com/jinwookjungs/datc_robust_design_flow)
- * DATC Robust Design Flow.
+  * DATC Robust Design Flow.
 * [edalize](https://github.com/olofk/edalize)
  * An abstraction library for interfacing EDA tools.
 * [fusesoc](https://github.com/olofk/fusesoc)
@@ -120,23 +113,6 @@ A curated list of awesome (open source) hardware tools.
   * Modular flow specification and build-system generator for ASIC and FPGA design-space exploration.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Build system that automates translation from source code to silicon.
-
-## Simulators
-
-* [ghdl](https://github.com/ghdl/ghdl)
-  * VHDL 2008/93/87 simulator.
-* [icarus](https://github.com/steveicarus/iverilog.git)
-  * Verilog IEEE-1364 simulator
-* [ngspice](http://ngspice.sourceforge.net/)
-  * Spice simulator
-* [qucs](https://github.com/Qucs/qucs)
-  * Itegrated circuit simulator with Graphical User Interface.
-* [pact](https://github.com/peaclab/PACT)
-  * Thermal Simulator
-* [verilator](https://github.com/verilator/verilator)
-  * SystemVerilog simulator and lint system.
-* [Xyce](https://github.com/Xyce/Xyce)
-  * Parallel spice simulatiom engine from Sandia national labs.
 
 ## Generators
 
@@ -175,61 +151,6 @@ A curated list of awesome (open source) hardware tools.
 * [kaktus2dev](https://github.com/kactus2/kactus2dev)
   * Graphical EDA tool based on the IP-XACT standard
 
-## Formal Verification
-
-* [boolector](https://github.com/boolector/boolector)
-  * SMT solver for the theories of fixed-size bit-vectors, arrays and uninterpreted functions.
-* [cvc5](https://github.com/cvc5/cvc5)
-  * SMT automatic theorem prover
-* [ilang](https://github.com/PrincetonUniversity/ILAng)
-  * Princeton modeling and Verification Platform for SoCs using ILAs
-* [pono](https://github.com/upscale-project/pono)
-  * Extensible SMT-based model checker implemented in C++.
-* [sby](https://github.com/YosysHQ/sby)
-  * Front-end for Yosys-based formal verification flows.
-* [z3](https://github.com/Z3Prover/z3)
-  * Microsoft research theorem prover.
-
-## Simulation Verification
-
-* [anasysmod](https://github.com/sgherbst/anasymod)
-  * Framework for FPGA emulation of mixed-signal systems
-* [Cocotb](https://github.com/cocotb/cocotb)
-  * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
-* [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)
-  * SystemC/TLM-2.0 Co-simulation framework
-* [msdsl](https://github.com/sgherbst/msdsl)
-  * Automatic generation of real number models from analog circuits
-* [qemu](https://github.com/qemu/qemu)
-  * Generic and open source machine & userspace emulator and virtualizer
-* [pyuvm](https://github.com/pyuvm/pyuvm)
-  * SystemVerilog UVM written in Python
-* [svreal](https://github.com/sgherbst/svreal)
-  * Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats
-* [vunit](https://github.com/VUnit/vunit)
-  * Unit testing framework for VHDL/SystemVerilog
-
-## Waveform viewers
-
-* [gtkwave](https://github.com/gtkwave/gtkwave)
-  * GTK+ based VCD wave viewer
-* [konata](https://github.com/shioyadan/Konata)
-  * Instruction pipeline visualizer for Gem5
-* [puselview](https://github.com/sigrokproject/pulseview)
-  * Qt-based LA/scope/MSO GUI for sigrok
-* [sigrok](https://github.com/sigrokproject)
-  * Portable, cross-platform, sinal analysis software suite (logic analyzers, scopes, multimeters, and more)
-* [sigrok-cli](https://github.com/sigrokproject/sigrok-cli)
-  * Command line interface for sigrok
-* [simview](https://github.com/pieter3d/simview)
-  * Text-based SystemVerilog design browser and waveform viewer
-* [sootty](https://github.com/Ben1152000/sootty)
-  * Command-line tool for displaying vcd waveforms
-* [wavedrom](https://github.com/wavedrom/wavedrom)
-  * Digital timing diagram rendering engine
-* [wavedrompy](https://github.com/wallento/wavedrompy)
-  * Python comptabled Wavedrom module
-
 ## Board Design
 
 * [boardview](https://github.com/whitequark/kicad-boardview)
@@ -238,12 +159,6 @@ A curated list of awesome (open source) hardware tools.
   * Utility that scrubs through large sets of PDF datasheets/documents in order to extract key circuit information
 * [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
-* [pcbdraw](https://github.com/yaqwsx/PcbDraw)
-  * Convert KiCAD board into 2D drawing suitable for pinout diagrams
-* [pinion](https://github.com/yaqwsx/Pinion)
-  * Generate interactive Diagrams for your PCBs
-* [pinout](https://github.com/j0ono0/pinout)
-  * Python package that generates hardware pinout diagrams as SVG images
 * [skidl](https://github.com/devbisme/skidl)
   * Python module for electronic design
 * [xschem](https://github.com/StefanSchippers/xschem)
@@ -296,7 +211,91 @@ A curated list of awesome (open source) hardware tools.
 * [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
   * FPGA place and route tool
 
+## Formal Verification
+
+* [boolector](https://github.com/boolector/boolector)
+  * SMT solver for the theories of fixed-size bit-vectors, arrays and uninterpreted functions.
+* [cvc5](https://github.com/cvc5/cvc5)
+  * SMT automatic theorem prover
+* [ilang](https://github.com/PrincetonUniversity/ILAng)
+  * Princeton modeling and Verification Platform for SoCs using ILAs
+* [pono](https://github.com/upscale-project/pono)
+  * Extensible SMT-based model checker implemented in C++.
+* [sby](https://github.com/YosysHQ/sby)
+  * Front-end for Yosys-based formal verification flows.
+* [z3](https://github.com/Z3Prover/z3)
+  * Microsoft research theorem prover.
+
+## Simulation
+
+* [anasysmod](https://github.com/sgherbst/anasymod)
+  * Framework for FPGA emulation of mixed-signal systems
+* [Cocotb](https://github.com/cocotb/cocotb)
+  * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [ghdl](https://github.com/ghdl/ghdl)
+  * VHDL 2008/93/87 simulator.
+* [icarus](https://github.com/steveicarus/iverilog.git)
+  * Verilog IEEE-1364 simulator
+* [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)
+  * SystemC/TLM-2.0 Co-simulation framework
+* [msdsl](https://github.com/sgherbst/msdsl)
+  * Automatic generation of real number models from analog circuits
+* [ngspice](http://ngspice.sourceforge.net/)
+  * Spice simulator
+* [qemu](https://github.com/qemu/qemu)
+  * Generic and open source machine & userspace emulator and virtualizer
+* [qucs](https://github.com/Qucs/qucs)
+  * Itegrated circuit simulator with Graphical User Interface.
+* [pact](https://github.com/peaclab/PACT)
+  * Thermal Simulator
+* [pyuvm](https://github.com/pyuvm/pyuvm)
+  * SystemVerilog UVM written in Python
+* [svreal](https://github.com/sgherbst/svreal)
+  * Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats
+* [verilator](https://github.com/verilator/verilator)
+  * SystemVerilog simulator and lint system.
+* [vunit](https://github.com/VUnit/vunit)
+  * Unit testing framework for VHDL/SystemVerilog
+* [xyce](https://github.com/Xyce/Xyce)
+  * Parallel spice simulatiom engine from Sandia national labs.
+
+## Waveform viewers
+
+* [gtkwave](https://github.com/gtkwave/gtkwave)
+  * GTK+ based VCD wave viewer
+* [konata](https://github.com/shioyadan/Konata)
+  * Instruction pipeline visualizer for Gem5
+* [puselview](https://github.com/sigrokproject/pulseview)
+  * Qt-based LA/scope/MSO GUI for sigrok
+* [sigrok](https://github.com/sigrokproject)
+  * Portable, cross-platform, sinal analysis software suite (logic analyzers, scopes, multimeters, and more)
+* [sigrok-cli](https://github.com/sigrokproject/sigrok-cli)
+  * Command line interface for sigrok
+* [simview](https://github.com/pieter3d/simview)
+  * Text-based SystemVerilog design browser and waveform viewer
+* [sootty](https://github.com/Ben1152000/sootty)
+  * Command-line tool for displaying vcd waveforms
+
 ## Benchmark Circuits
 
 * [opdb](https://github.com/PrincetonUniversity/OPDB)
-  * Design benchmarks
+  * Princeton design benchmark generators
+
+## Documentation
+
+* [graphviz](https://github.com/xflr6/graphviz)
+  * Python library for graph cration and rendering in DOT language
+* [pcbdraw](https://github.com/yaqwsx/PcbDraw)
+  * Convert KiCAD board into 2D drawing suitable for pinout diagrams
+* [pinion](https://github.com/yaqwsx/Pinion)
+  * Generate interactive Diagrams for your PCBs
+* [pinout](https://github.com/j0ono0/pinout)
+  * Python package that generates hardware pinout diagrams as SVG images
+* [sphinx](https://github.com/sphinx-doc/sphinx)
+  * Document builder
+* [symbolator](https://github.com/kevinpt/symbolator)
+  * HDL symbol generator
+* [wavedrom](https://github.com/wavedrom/wavedrom)
+  * Digital timing diagram rendering engine
+* [wavedrompy](https://github.com/wallento/wavedrompy)
+  * Python comptabled Wavedrom module

@@ -1,6 +1,6 @@
 # awesome-hardware-tools
 
-A curated list of awesome (open source) hardware tools.
+A curated list of awesome open source hardware tools.
 
 * Categorized
 * Alphabetical (per category)
@@ -230,7 +230,7 @@ A curated list of awesome (open source) hardware tools.
 
 * [anasysmod](https://github.com/sgherbst/anasymod)
   * Framework for FPGA emulation of mixed-signal systems
-* [Cocotb](https://github.com/cocotb/cocotb)
+* [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 * [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator.

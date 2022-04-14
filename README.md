@@ -5,10 +5,10 @@ A curated list of awesome open source hardware tools.
 * Categorized
 * Alphabetical (per category)
 * Requirements
-	* open source
-	* operational
+    * link should be to source code repository
+	* open source projects only
+	* working projects only (not WIP/rusty)
 * One tag line sentence per project.
-* Max 80 char line width
 
 ## Compiler Frameworks
 

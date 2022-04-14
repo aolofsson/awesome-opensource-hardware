@@ -286,6 +286,10 @@ A curated list of awesome open source hardware tools.
 
 ## Benchmark Circuits
 
+* [epfl-benchmarks](https://github.com/lsils/benchmarks)
+  * Combinational Benchmark Suite for logic synthesis
+* [bsg_pipeclean_suite](https://github.com/bespoke-silicon-group/bsg_pipeclean_suite)
+  * Collection of designs used to stress test new CAD flows
 * [opdb](https://github.com/PrincetonUniversity/OPDB)
   * Princeton design benchmark generators
 

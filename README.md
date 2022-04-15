@@ -196,6 +196,8 @@ A curated list of awesome open source hardware tools.
 
 * [align](https://github.com/ALIGN-analoglayout/ALIGN-public)
   * Automatic layout generator for analog circuits
+* [coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis.git)
+  * RTL2GDS toolchain for mature nodes (http://coriolis.lip6.fr).
 * [dreamplace](https://github.com/limbo018/DREAMPlace)
   * Deep learning toolkit-enabled VLSI placement
 * [gds3d](https://github.com/trilomix/GDS3D)
@@ -215,7 +217,7 @@ A curated list of awesome open source hardware tools.
 * [netgen](https://github.com/RTimothyEdwards/netgen)
   * LVS tool for comparing SPICE or verilog netlists
 * [openlane](https://github.com/The-OpenROAD-Project/OpenLane)
-  * Automated ASIC flow scripts baed on openroad, yosys, magic, netgen.
+  * Automated ASIC flow scripts based on openroad, yosys, magic, netgen.
 * [openroad](https://github.com/The-OpenROAD-Project/OpenROAD)
   * Complete RTL2GDS platform
 * [phidl](https://github.com/amccaugh/phidl)

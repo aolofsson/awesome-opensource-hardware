@@ -251,14 +251,18 @@ A curated list of awesome open source hardware tools.
   * Framework for FPGA emulation of mixed-signal systems
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [dromajo](https://github.com/chipsalliance/dromajo)
+  * RISC-V RV64GC functional emulator
 * [epiphany-dv](https://github.com/adapteva/epiphany-dv)
   * SystemC based constrained random verification environment for Epiphany
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)
-  * VHDL 2008/93/87 simulator.
+  * VHDL 2008/93/87 simulator
 * [icarus](https://github.com/steveicarus/iverilog.git)
   * Verilog IEEE-1364 simulator
+* [hotspot](https://github.com/uvahotspot/HotSpot)
+  * Thermal modeleing tool for use in architectural studies
 * [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)
   * SystemC/TLM-2.0 Co-simulation framework
 * [msdsl](https://github.com/sgherbst/msdsl)
@@ -274,7 +278,7 @@ A curated list of awesome open source hardware tools.
 * [qemu](https://github.com/qemu/qemu)
   * Generic and open source machine & userspace emulator and virtualizer
 * [qucs](https://github.com/Qucs/qucs)
-  * Itegrated circuit simulator with Graphical User Interface.
+  * Itegrated circuit simulator with Graphical User Interface
 * [pact](https://github.com/peaclab/PACT)
   * Thermal Simulator
 * [pyuvm](https://github.com/pyuvm/pyuvm)
@@ -292,7 +296,7 @@ A curated list of awesome open source hardware tools.
 * [vunit](https://github.com/VUnit/vunit)
   * Unit testing framework for VHDL/SystemVerilog
 * [xyce](https://github.com/Xyce/Xyce)
-  * Parallel spice simulatiom engine from Sandia national labs.
+  * Parallel spice simulator from Sandia national labs
 
 ## Waveform viewers
 

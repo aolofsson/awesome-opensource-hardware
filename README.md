@@ -71,7 +71,9 @@ A curated list of awesome open source hardware tools.
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
 * [slang](https://github.com/MikePopoloski/slang)
-  * slang is a software library that provides various components for lexing, parsing, type checking, and elaborating SystemVerilog code
+  * Library that provides various components for lexing, parsing, type checking, and elaborating SystemVerilog code
+* [sodaopt](https://gitlab.pnnl.gov/sodalite/soda-opt)
+  * Leverages mlir to extract, optimize, and translate high-level code snippets into LLVM IR for use by high-level synthesis tools
 * [spinalhdl](https://github.com/SpinalHDL/SpinalHDL)
   * Scala based HDL
 * [spydrnet](https://github.com/byuccl/spydrnet)
@@ -323,6 +325,8 @@ A curated list of awesome open source hardware tools.
   * IEEE CEDA eda benchmark flow
 * [opdb](https://github.com/PrincetonUniversity/OPDB)
   * Princeton design benchmark generators
+* [sv-tests](https://github.com/chipsalliance/sv-tests)
+  * SystemVerilog compliance test suite
 
 ## Documentation
 

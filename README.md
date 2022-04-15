@@ -269,6 +269,10 @@ A curated list of awesome open source hardware tools.
   * Thermal Simulator
 * [pyuvm](https://github.com/pyuvm/pyuvm)
   * SystemVerilog UVM written in Python
+* [svlint](https://github.com/dalance/svlint)
+  * SystemVerilog linter
+* [svlint-action](https://github.com/dalance/svlint-action)
+  * GitHub action for svlint
 * [svreal](https://github.com/sgherbst/svreal)
   * Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats
 * [renode](https://github.com/renode/renode)

@@ -196,8 +196,8 @@ A curated list of awesome open source hardware tools.
 
 * [align](https://github.com/ALIGN-analoglayout/ALIGN-public)
   * Automatic layout generator for analog circuits
-* [coriolis](http://coriolis.lip6.fr)
-  * RTL2GDS toolchain for mature nodes.
+* [coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis.git)
+  * RTL2GDS toolchain for mature nodes (http://coriolis.lip6.fr).
 * [dreamplace](https://github.com/limbo018/DREAMPlace)
   * Deep learning toolkit-enabled VLSI placement
 * [gds3d](https://github.com/trilomix/GDS3D)

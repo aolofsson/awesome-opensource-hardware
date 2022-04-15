@@ -285,6 +285,8 @@ A curated list of awesome open source hardware tools.
   * Thermal Simulator
 * [pyuvm](https://github.com/pyuvm/pyuvm)
   * SystemVerilog UVM written in Python
+* [SimulIDE](https://github.com/SimulIDE/SimulIDE)
+  * SimulIDE is a simple real-time electronic circuit simulator 
 * [svlint](https://github.com/dalance/svlint)
   * SystemVerilog linter
 * [svlint-action](https://github.com/dalance/svlint-action)

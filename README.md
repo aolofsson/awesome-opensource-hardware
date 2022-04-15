@@ -70,6 +70,8 @@ A curated list of awesome open source hardware tools.
   * Dart based framework for describing and verifying hardware
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
+* [slang](https://github.com/MikePopoloski/slang)
+  * slang is a software library that provides various components for lexing, parsing, type checking, and elaborating SystemVerilog code
 * [spinalhdl](https://github.com/SpinalHDL/SpinalHDL)
   * Scala based HDL
 * [spydrnet](https://github.com/byuccl/spydrnet)

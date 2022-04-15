@@ -62,6 +62,8 @@ A curated list of awesome open source hardware tools.
   * Python hardware generation, simulation, and verification framework
 * [pyrtl](https://github.com/UCSBarchlab/PyRTL)
   * Python integrated design and soimulation framework
+* [pysysc](https://github.com/accellera-official/PySysC)
+  * Python package to make SystemC usable from Python
 * [pyverilog](https://github.com/PyHDI/Pyverilog)
   * Python design toolkit for Verilog HDL
 * [rohd](https://github.com/intel/rohd)
@@ -78,6 +80,8 @@ A curated list of awesome open source hardware tools.
   * SystemVerilog IEEE 1800-2017 parser library
 * [sv2v](https://github.com/zachjs/sv2v)
   * SystemVerilog to Verilog conversion
+* [systemc](https://github.com/accellera-official/systemc)
+  * SystemC system design and verification language that spans hardware and software
 * [uhdm](https://github.com/chipsalliance/UHDM)
   * Unversal object model for IEEE SystemVerilog designs
 * [verible](https://github.com/chipsalliance/verible)
@@ -243,6 +247,8 @@ A curated list of awesome open source hardware tools.
   * Framework for FPGA emulation of mixed-signal systems
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [epiphany-dv](https://github.com/adapteva/epiphany-dv)
+  * SystemC based constrained random verification environment for Epiphany
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)

@@ -107,7 +107,7 @@ A curated list of awesome open source hardware tools.
   * An infrastructure for integrated EDA
 * [edalize](https://github.com/olofk/edalize)
   * An abstraction library for interfacing EDA tools.
-* [f4fpga](https://github.com/SymbiFlow/f4pga-arch-defs)
+* [f4pga](https://github.com/SymbiFlow/f4pga-arch-defs)
   * Architecture definitions of FPGA hardware
 * [fusesoc](https://github.com/olofk/fusesoc)
   * Package manager and build abstraction tool for FPGA/ASIC development.

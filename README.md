@@ -154,7 +154,7 @@ A curated list of awesome open source hardware tools.
   * Cornell parameterizable OCN (on-chip network) generator
 * [revenoc](https://github.com/aignacio/ravenoc)
   * Configurable HDL NoC (Network-On-Chip) generator
-* [rggen](https://github.com/rggen/rggen)
+* [RgGen](https://github.com/rggen/rggen)
   * Configuration and status register generator
 * [rocket](https://github.com/chipsalliance/rocket-chip)
   * Rocket chip chisel based generator

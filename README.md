@@ -203,7 +203,7 @@ A curated list of awesome open source hardware tools.
 * [align](https://github.com/ALIGN-analoglayout/ALIGN-public)
   * Automatic layout generator for analog circuits
 * [coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis.git)
-  * RTL2GDS toolchain for mature nodes (http://coriolis.lip6.fr).
+  * RTL2GDS toolchain for mature nodes
 * [dreamplace](https://github.com/limbo018/DREAMPlace)
   * Deep learning toolkit-enabled VLSI placement
 * [gds3d](https://github.com/trilomix/GDS3D)
@@ -356,7 +356,7 @@ A curated list of awesome open source hardware tools.
   * Document builder
 * [sphinx-verilog-domain](https://github.com/SymbiFlow/sphinx-verilog-domain)
   * Sphinx domain to allow integration of Verilog / SystemVerilog documentation into Sphinx.
-* [sphinxcontrib-hdl-diagrams](https://sphinxcontrib-hdl-diagrams.rtfd.io/)
+* [sphinxcontrib-hdl-diagrams](https://github.com/SymbiFlow/sphinxcontrib-hdl-diagrams)
   * Sphinx plugin to automatically generate diagrams from RTL.
 * [symbolator](https://github.com/kevinpt/symbolator)
   * HDL symbol generator

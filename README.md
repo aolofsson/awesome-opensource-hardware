@@ -134,10 +134,14 @@ A curated list of awesome open source hardware tools.
   * FPGA fabric generator
 * [fftgenerator](https://github.com/ucb-bar/FFTGenerator)
   * Chisel based FFT generator
+* [fsm2sv](https://github.com/mohamed/fsm2sv)
+  * SystemVerilog FSM generator
 * [garnet](https://github.com/StanfordAHA/garnet)
   * CGRA generator
 * [gemmini](https://github.com/ucb-bar/gemmini)
   * Spatial array machine learning accelerator generator
+* [gen_registers](https://github.com/lsteveol/gen_registers)
+  * Python based tool for generating hardware registers and their associated files
 * [lake](https://github.com/StanfordAHA/lake)
   * Synthesizable memory generator
 * [litex](https://github.com/enjoy-digital/litex)
@@ -255,8 +259,8 @@ A curated list of awesome open source hardware tools.
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 * [dromajo](https://github.com/chipsalliance/dromajo)
   * RISC-V RV64GC functional emulator
-* [epiphany-dv](https://github.com/adapteva/epiphany-dv)
-  * SystemC based constrained random verification environment for Epiphany
+* [eesim](https://github.com/danchitnis/EEsim)
+  * Browser-based SPICE circuit simulator
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)
@@ -283,16 +287,20 @@ A curated list of awesome open source hardware tools.
   * Itegrated circuit simulator with Graphical User Interface
 * [pact](https://github.com/peaclab/PACT)
   * Thermal Simulator
+* [pyspice](https://github.com/PySpice-org/PySpice)
+  * Python interface for ngspice and xyce
 * [pyuvm](https://github.com/pyuvm/pyuvm)
   * SystemVerilog UVM written in Python
 * [SimulIDE](https://github.com/SimulIDE/SimulIDE)
-  * SimulIDE is a simple real-time electronic circuit simulator 
+  * SimulIDE is a simple real-time electronic circuit simulator
 * [svlint](https://github.com/dalance/svlint)
   * SystemVerilog linter
 * [svlint-action](https://github.com/dalance/svlint-action)
   * GitHub action for svlint
 * [svreal](https://github.com/sgherbst/svreal)
   * Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats
+* [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
+  * Demo system for libsystemctlm-soc library
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator (including multi-part and peripheral) designed to run unmodified firmware which includes co-simulation with RTL simulators.
 * [verilator](https://github.com/verilator/verilator)

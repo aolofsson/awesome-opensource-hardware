@@ -303,6 +303,8 @@ A curated list of awesome open source hardware tools.
   * Demo system for libsystemctlm-soc library
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator (including multi-part and peripheral) designed to run unmodified firmware which includes co-simulation with RTL simulators.
+* [uvvm](https://github.com/UVVM/UVVM)
+  * A free and Open Source Methodology and Library for making very structured VHDL-based testbenches.
 * [verilator](https://github.com/verilator/verilator)
   * SystemVerilog simulator and lint system.
 * [vunit](https://github.com/VUnit/vunit)
@@ -342,6 +344,8 @@ A curated list of awesome open source hardware tools.
 
 * [graphviz](https://github.com/xflr6/graphviz)
   * Python library for graph cration and rendering in DOT language
+* [netlistsvg](https://github.com/nturley/netlistsvg)
+  * draws an SVG schematic from a JSON netlist
 * [pcbdraw](https://github.com/yaqwsx/PcbDraw)
   * Convert KiCAD board into 2D drawing suitable for pinout diagrams
 * [pinion](https://github.com/yaqwsx/Pinion)
@@ -350,12 +354,19 @@ A curated list of awesome open source hardware tools.
   * Python package that generates hardware pinout diagrams as SVG images
 * [sphinx](https://github.com/sphinx-doc/sphinx)
   * Document builder
+* [sphinx-verilog-domain](https://github.com/SymbiFlow/sphinx-verilog-domain)
+  * Sphinx domain to allow integration of Verilog / SystemVerilog documentation into Sphinx.
+* [sphinxcontrib-hdl-diagrams](https://sphinxcontrib-hdl-diagrams.rtfd.io/)
+  * Sphinx plugin to automatically generate diagrams from RTL.
 * [symbolator](https://github.com/kevinpt/symbolator)
   * HDL symbol generator
 * [wavedrom](https://github.com/wavedrom/wavedrom)
   * Digital timing diagram rendering engine
 * [wavedrompy](https://github.com/wallento/wavedrompy)
   * Python comptabled Wavedrom module
+  * Python compatible Wavedrom module
+* [undulate](https://github.com/LudwigCRON/undulate)
+  * Python compatible wavedrom module with extensions and console rendering support
 
 ## Other Awesome Lists
 

@@ -40,10 +40,14 @@ A curated list of awesome open source hardware tools.
   * Hardware generator combining halide and coreir
 * [hdlconvertor](https://github.com/Nic30/hdlConvertor)
   * Verilog/VHDL parser preprocessor and code generator for C++/Python based on ANTL4
+* [hs-to-coq](https://github.com/plclub/hs-to-coq)
+  * Convert Haskell source code to Coq source code
 * [livehd](https://github.com/masc-ucsc/livehd)
   * Infrastructure for live interactive synthesis and simulation
 * [llhd](https://github.com/fabianschuiki/llhd)
   * Intermediate representation for digital circuit descriptions
+* [kami](https://github.com/mit-plv/kami)
+  * Platform for High-Level Parametric Hardware Specification and its Modular Verification
 * [magma](https://github.com/phanrahan/magma/)
   * Python based hardware design language
 * [matchlib](https://github.com/NVlabs/matchlib)
@@ -255,12 +259,16 @@ A curated list of awesome open source hardware tools.
 
 * [anasysmod](https://github.com/sgherbst/anasymod)
   * Framework for FPGA emulation of mixed-signal systems
+* [awsteria_infra](https://github.com/bluespec/AWSteria_Infra)
+  * Middleware for AWS hosted FPGA applications
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 * [dromajo](https://github.com/chipsalliance/dromajo)
   * RISC-V RV64GC functional emulator
 * [eesim](https://github.com/danchitnis/EEsim)
   * Browser-based SPICE circuit simulator
+* [firesim](https://github.com/firesim/firesim)
+  * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)

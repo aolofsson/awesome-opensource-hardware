@@ -94,7 +94,7 @@ A curated list of awesome open source hardware tools.
   * Unversal object model for IEEE SystemVerilog designs
 * [verible](https://github.com/chipsalliance/verible)
   * Suite of SystemVerilog developer tools, including a parser, style-linter, and formatter
-* [verilogger](https://github.com/PyHDI/veriloggen)
+* [veriloggen](https://github.com/PyHDI/veriloggen)
   * Mixed-Paradigm Hardware Construction Framework
 * [verik](https://github.com/frwang96/verik)
   * Kotlin based hardware description language

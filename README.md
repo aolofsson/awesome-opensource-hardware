@@ -281,6 +281,8 @@ A curated list of awesome open source hardware tools.
   * SystemC/TLM-2.0 Co-simulation framework
 * [msdsl](https://github.com/sgherbst/msdsl)
   * Automatic generation of real number models from analog circuits
+* [netlist-paths](https://github.com/jameshanlon/netlist-paths)
+  * A library and command-line tool for querying a Verilog netlist
 * [ngspice](http://ngspice.sourceforge.net/)
   * Spice simulator
 * [opensta](https://github.com/The-OpenROAD-Project/OpenSTA)

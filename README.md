@@ -351,7 +351,8 @@ A curated list of awesome open source hardware tools.
   * SystemVerilog compliance test suite
 
 ## Documentation
-
+* [freecad](https://github.com/FreeCAD/FreeCAD)
+  * 3D parametric CAD for building models of components for KiCad 3D preview (also enclosures)
 * [graphviz](https://github.com/xflr6/graphviz)
   * Python library for graph cration and rendering in DOT language
 * [netlistsvg](https://github.com/nturley/netlistsvg)

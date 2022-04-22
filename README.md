@@ -56,6 +56,8 @@ A curated list of awesome open source hardware tools.
   * SystemC library implementing latency-insensitive channels for use by High-Level synthesis tools.
 * [myhdl](https://github.com/myhdl/myhdl)
   * Python baed hardware description and verification language
+* [NNgen](https://github.com/NNgen/nngen)
+  * A Fully-Customizable Hardware Synthesis Compiler for Deep Neural Network
 * [panda](https://github.com/ferrandi/PandA-bambu)
   * High level synthesis (HLS) C/C++ framework
 * [pipelinec](https://github.com/JulianKemmerer/PipelineC)
@@ -94,7 +96,7 @@ A curated list of awesome open source hardware tools.
   * Unversal object model for IEEE SystemVerilog designs
 * [verible](https://github.com/chipsalliance/verible)
   * Suite of SystemVerilog developer tools, including a parser, style-linter, and formatter
-* [verilogger](https://github.com/PyHDI/veriloggen)
+* [veriloggen](https://github.com/PyHDI/veriloggen)
   * Mixed-Paradigm Hardware Construction Framework
 * [verik](https://github.com/frwang96/verik)
   * Kotlin based hardware description language

@@ -263,6 +263,8 @@ A curated list of awesome open source hardware tools.
   * Framework for FPGA emulation of mixed-signal systems
 * [awsteria_infra](https://github.com/bluespec/AWSteria_Infra)
   * Middleware for AWS hosted FPGA applications
+* [champsim](https://github.com/ChampSim/ChampSim)
+  * Trace-based simulator for a microarchitecture study.
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 * [dromajo](https://github.com/chipsalliance/dromajo)
@@ -387,6 +389,8 @@ A curated list of awesome open source hardware tools.
   * Hardware verification
 * [clin99](https://github.com/clin99/awesome-eda)
   * EDA projects
+* [computer-engineering-resources](https://github.com/rajesh-s/computer-engineering-resources)
+  * A curated list of Computer Engineering/Architecture resources
 * [delftopenhardware](https://github.com/delftopenhardware/awesome-open-hardware)
   * Open hardware materials
 * [hdl](https://github.com/hdl/awesome)

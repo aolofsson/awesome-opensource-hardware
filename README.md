@@ -55,7 +55,7 @@ A curated list of awesome open source hardware tools.
 * [matchclib_connections](https://github.com/hlslibs/matchlib_connections)
   * SystemC library implementing latency-insensitive channels for use by High-Level synthesis tools.
 * [myhdl](https://github.com/myhdl/myhdl)
-  * Python baed hardware description and verification language
+  * Python based hardware description and verification language
 * [NNgen](https://github.com/NNgen/nngen)
   * A Fully-Customizable Hardware Synthesis Compiler for Deep Neural Network
 * [panda](https://github.com/ferrandi/PandA-bambu)
@@ -67,7 +67,7 @@ A curated list of awesome open source hardware tools.
 * [pymtl3](https://github.com/pymtl/pymtl3)
   * Python hardware generation, simulation, and verification framework
 * [pyrtl](https://github.com/UCSBarchlab/PyRTL)
-  * Python integrated design and soimulation framework
+  * Python integrated design and simulation framework
 * [pysysc](https://github.com/accellera-official/PySysC)
   * Python package to make SystemC usable from Python
 * [pyverilog](https://github.com/PyHDI/Pyverilog)

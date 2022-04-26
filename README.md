@@ -31,7 +31,7 @@ A curated list of awesome open source hardware tools.
 * [coreir](https://github.com/rdaly525/coreir)
   * LLVM-style hardware compiler with first class support for generators
 * [dfiant](https://github.com/DFiantHDL/DFiant)
-  * Dataflow Hardware Descripition Language
+  * Dataflow Hardware Description Language
 * [firrtl](https://github.com/chipsalliance/firrtl)
   * Intermediate Representation for RTL
 * [halide](https://github.com/halide/Halide)
@@ -93,7 +93,7 @@ A curated list of awesome open source hardware tools.
 * [systemc](https://github.com/accellera-official/systemc)
   * SystemC system design and verification language that spans hardware and software
 * [uhdm](https://github.com/chipsalliance/UHDM)
-  * Unversal object model for IEEE SystemVerilog designs
+  * Universal object model for IEEE SystemVerilog designs
 * [verible](https://github.com/chipsalliance/verible)
   * Suite of SystemVerilog developer tools, including a parser, style-linter, and formatter
 * [veriloggen](https://github.com/PyHDI/veriloggen)
@@ -379,7 +379,6 @@ A curated list of awesome open source hardware tools.
   * Digital timing diagram rendering engine
 * [wavedrompy](https://github.com/wallento/wavedrompy)
   * Python comptabled Wavedrom module
-  * Python compatible Wavedrom module
 * [undulate](https://github.com/LudwigCRON/undulate)
   * Python compatible wavedrom module with extensions and console rendering support
 

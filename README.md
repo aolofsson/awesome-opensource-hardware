@@ -271,6 +271,8 @@ A curated list of awesome open source hardware tools.
   * RISC-V RV64GC functional emulator
 * [eesim](https://github.com/danchitnis/EEsim)
   * Browser-based SPICE circuit simulator
+* [essent](https://github.com/ucsc-vama/essent)
+  * High-perofrmance FIRRTL (Chisel) simulator
 * [firesim](https://github.com/firesim/firesim)
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [gem5](https://github.com/gem5/gem5)

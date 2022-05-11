@@ -235,10 +235,14 @@ A curated list of awesome open source hardware tools.
 * [phidl](https://github.com/amccaugh/phidl)
   * Python GDS layout and CAD geometry creation
 
-## FPGA Layout
+## FPGA Design
 
+* [icestudio](https://github.com/FPGAwars/icestudio)
+  * Visual editor for open FPGA boards
 * [nextpnr](https://github.com/YosysHQ/nextpnr)
   * FPGA place and route tool
+* [openfpgaloader](https://github.com/trabucayre/openFPGALoader)
+  * Universal utility for programming FPGA
 * [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
   * FPGA place and route tool
 
@@ -299,8 +303,8 @@ A curated list of awesome open source hardware tools.
   * A VHDL verification framework, utility library, verification component library, and a simulator independent scripting flow
 * [qemu](https://github.com/qemu/qemu)
   * Generic and open source machine & userspace emulator and virtualizer
-* [qucs](https://github.com/Qucs/qucs)
-  * Itegrated circuit simulator with Graphical User Interface
+* [qucs_s](https://github.com/ra3xdh/qucs_s)
+  * Integrated circuit simulator with Graphical User Interface
 * [pact](https://github.com/peaclab/PACT)
   * Thermal Simulator
 * [pyspice](https://github.com/PySpice-org/PySpice)
@@ -349,7 +353,7 @@ A curated list of awesome open source hardware tools.
   * Collection of designs used to stress test new CAD flows
 * [corescore](https://github.com/olofk/corescore)
   * Benchmark for FPGAs and their synthesis/P&R tools
-* [rdf-2019](https://github.com/ieee-ceda-datc/RDF-2019)
+* [rdf-2020](https://github.com/ieee-ceda-datc/RDF-2020)
   * IEEE CEDA eda benchmark flow
 * [opdb](https://github.com/PrincetonUniversity/OPDB)
   * Princeton design benchmark generators

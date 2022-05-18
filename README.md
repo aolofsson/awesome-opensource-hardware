@@ -279,6 +279,8 @@ A curated list of awesome open source hardware tools.
   * High-perofrmance FIRRTL (Chisel) simulator
 * [firesim](https://github.com/firesim/firesim)
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+* [fstdumper](https://github.com/semify-eda/fstdumper)
+  * Verilog VPI module to dump FST (Fast Signal Trace) databases 
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)

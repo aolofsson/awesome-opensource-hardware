@@ -222,6 +222,8 @@ A curated list of awesome open source hardware tools.
   * Python module for creating GDSII stream files, usually CAD layouts.
 * [klayout](https://github.com/KLayout/klayout)
   * Layout viewer
+* [lclayout](https://codeberg.org/librecell/lclayout)
+  * Layout generator for CMOS standard-cells
 * [magic](https://github.com/RTimothyEdwards/magic)
   * VLSI Layout Tool
 * [magical](https://github.com/magical-eda/MAGICAL)
@@ -271,6 +273,8 @@ A curated list of awesome open source hardware tools.
   * Trace-based simulator for a microarchitecture study.
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [devsim](https://github.com/devsim)
+  * TCAD Semiconductor Device Simulator
 * [dromajo](https://github.com/chipsalliance/dromajo)
   * RISC-V RV64GC functional emulator
 * [eesim](https://github.com/danchitnis/EEsim)
@@ -280,13 +284,15 @@ A curated list of awesome open source hardware tools.
 * [firesim](https://github.com/firesim/firesim)
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [fstdumper](https://github.com/semify-eda/fstdumper)
-  * Verilog VPI module to dump FST (Fast Signal Trace) databases 
+  * Verilog VPI module to dump FST (Fast Signal Trace) databases
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator
 * [icarus](https://github.com/steveicarus/iverilog.git)
   * Verilog IEEE-1364 simulator
+* [lctime](https://codeberg.org/librecell/lctime)
+  * Library cell characterization
 * [hotspot](https://github.com/uvahotspot/HotSpot)
   * Thermal modeleing tool for use in architectural studies
 * [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)

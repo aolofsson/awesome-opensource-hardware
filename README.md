@@ -16,6 +16,10 @@ A curated list of awesome open source hardware tools.
   * Symmetric block cipher AES (Advanced Encryption Standard)
 * [ara](https://github.com/pulp-platform/ara)
   * Vector Unit, compatible with the RISC-V Vector Extension
+* [BISMO](https://github.com/EECS-NTNU/bismo/)
+  * Chisel-based bit-serial matrix multiplication accelerator generator
+* [FINN](https://github.com/Xilinx/finn)
+  * Quantized NN to FPGA dataflow accelerator generator
 * [FFTGenerator](https://github.com/ucb-bar/FFTGenerator)
   * MMIO-Based FFT Generator
 * [fpu](https://github.com/dawsonjon/fpu)
@@ -32,6 +36,8 @@ A curated list of awesome open source hardware tools.
   * Chisel based FFT generator
 * [h265-encoder-rtl](https://github.com/openasic-org/h265-encoder-rtl)
   * H.265 Video Encoder IP Core
+* [LogicNets](https://github.com/Xilinx/logicnets)
+  * Train and generate LUT-based neural networks
 * [nvdla](https://github.com/nvdla/hw)
   * NVIDIA Deep Learning Accelerator (NVDLA)
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor)

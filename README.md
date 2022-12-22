@@ -18,6 +18,10 @@ A curated list of awesome open source hardware tools.
   * Python based hardware design framework
 * [bsc](https://github.com/B-Lang-org/bsc)
   * Compiler, simulator, and tools for the Bluespec Hardware Description Language
+* [bfg](https://github.com/growly/bfg)
+  * Open-Source Silicon Compiler for Reduced-Complexity Reconfigurable Fabrics
+* [bsg_fakeram](https://github.com/bespoke-silicon-group/bsg_fakeram)
+  * Fake RAM generator
 * [calyx](https://github.com/cucapra/calyx)
   * Intermediate language and infrastructure for building compilers that generate custom hardware accelerators
 * [chisel](https://github.com/chipsalliance/chisel3)
@@ -34,6 +38,8 @@ A curated list of awesome open source hardware tools.
   * Dataflow Hardware Description Language
 * [firrtl](https://github.com/chipsalliance/firrtl)
   * Intermediate Representation for RTL
+* [gamma](https://github.com/maestro-project/gamma)
+  * Optimizes mapping of DNN models on DNN Accelerators
 * [halide](https://github.com/halide/Halide)
   * Language for fast, portable data-parallel computation
 * [halide-to-hardware](https://github.com/StanfordAHA/Halide-to-Hardware)
@@ -56,6 +62,8 @@ A curated list of awesome open source hardware tools.
   * SystemC library implementing latency-insensitive channels for use by High-Level synthesis tools.
 * [myhdl](https://github.com/myhdl/myhdl)
   * Python based hardware description and verification language
+* [naja](https://github.com/xtofalex/naja)
+  * Structural Netlist API (and more) for EDA post synthesis flow development
 * [NNgen](https://github.com/NNgen/nngen)
   * A Fully-Customizable Hardware Synthesis Compiler for Deep Neural Network
 * [panda](https://github.com/ferrandi/PandA-bambu)
@@ -74,8 +82,11 @@ A curated list of awesome open source hardware tools.
   * Python design toolkit for Verilog HDL
 * [rohd](https://github.com/intel/rohd)
   * Dart based framework for describing and verifying hardware
+
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
+* [skidl](https://github.com/devbisme/skidl)
+  * SKiDL is a module that extends Python with the ability to design electronic circuits
 * [slang](https://github.com/MikePopoloski/slang)
   * Library that provides various components for lexing, parsing, type checking, and elaborating SystemVerilog code
 * [sodaopt](https://gitlab.pnnl.gov/sodalite/soda-opt)
@@ -92,6 +103,8 @@ A curated list of awesome open source hardware tools.
   * SystemVerilog to Verilog conversion
 * [systemc](https://github.com/accellera-official/systemc)
   * SystemC system design and verification language that spans hardware and software
+* [systemc-compiler](https://github.com/intel/systemc-compiler)
+  * Translates synthesizable SystemC to synthesizable Verilog
 * [uhdm](https://github.com/chipsalliance/UHDM)
   * Universal object model for IEEE SystemVerilog designs
 * [verible](https://github.com/chipsalliance/verible)
@@ -100,6 +113,8 @@ A curated list of awesome open source hardware tools.
   * Mixed-Paradigm Hardware Construction Framework
 * [verik](https://github.com/frwang96/verik)
   * Kotlin based hardware description language
+* [Vlsir](https://github.com/Vlsir/Vlsir)
+  * Interchange formats for chip design
 * [xls](https://github.com/google/xls)
   * Google framework for hardware synthesis
 
@@ -129,6 +144,18 @@ A curated list of awesome open source hardware tools.
   * Modular flow specification and build-system generator for ASIC and FPGA design-space exploration.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Build system that automates translation from source code to silicon.
+
+## EDA Interfaces
+
+* [pyaedt](https://github.com/pyansys/pyaedt)
+  * AEDT Python Client Package
+* [pydpf-core](https://github.com/pyansys/pydpf-core)
+  * Data Processing Framework - Python Core
+* [pyfluent](https://github.com/pyansys/pyfluent)
+  * Pythonic interface to Ansys Fluent
+* [pymapdl](https://github.com/pyansys/pymapdl)
+  * Pythonic interface to MAPDL
+
 
 ## Generators
 
@@ -177,8 +204,21 @@ A curated list of awesome open source hardware tools.
 * [kaktus2dev](https://github.com/kactus2/kactus2dev)
   * Graphical EDA tool based on the IP-XACT standard
 
+## Design Formats
+
+* [Vlsir](https://github.com/Vlsir/Vlsir)
+  * Interchange formats for chip design
+
 ## Analog Design
 
+* [OpenVAF](https://github.com/pascalkuthe/OpenVAF)
+  * Next generation Verilog-A compiler
+* [OpenPLC_Editor](https://github.com/thiagoralves/OpenPLC_Editor)
+  * IDE capable of creating programs for the OpenPLC Runtime
+* [OpenPLC_v3](https://github.com/thiagoralves/OpenPLC_v3)
+  * OpenPLC Runtime version 3
+* [oregano](https://github.com/drahnr/oregano)
+  * Schematic capture and circuit simulator
 * [xschem](https://github.com/StefanSchippers/xschem)
   * Schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog
 
@@ -186,10 +226,15 @@ A curated list of awesome open source hardware tools.
 
 * [boardview](https://github.com/whitequark/kicad-boardview)
   * Reads KiCAD PCB layout files and writes ASCII Boardview files
+* [cuflow](https://github.com/jamesbowman/cuflow)
+  * Experimental procedural PCB layout program
 * [datasheet-scrubber](https://github.com/idea-fasoc/datasheet-scrubber)
   * Utility that scrubs through large sets of PDF datasheets/documents in order to extract key circuit information
 * [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
+* [pcbflow](https://github.com/michaelgale/pcbflow)
+  * Python based Printed Circuit Board (PCB) layout and design package based on CuFlow
+
 
 ## Logic Synthesis
 
@@ -208,6 +253,8 @@ A curated list of awesome open source hardware tools.
 
 * [align](https://github.com/ALIGN-analoglayout/ALIGN-public)
   * Automatic layout generator for analog circuits
+* [chip_art](https://github.com/jazvw/chip_art)
+  * Convert an image to a GDS format for inclusion in a zerotoasic project
 * [coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis.git)
   * RTL2GDS toolchain for mature nodes
 * [dreamplace](https://github.com/limbo018/DREAMPlace)
@@ -222,6 +269,8 @@ A curated list of awesome open source hardware tools.
   * Python module for creating GDSII stream files, usually CAD layouts.
 * [klayout](https://github.com/KLayout/klayout)
   * Layout viewer
+* [Layout21](https://github.com/dan-fritchman/Layout21)
+  * Integrated Circuit Layout
 * [lclayout](https://codeberg.org/librecell/lclayout)
   * Layout generator for CMOS standard-cells
 * [magic](https://github.com/RTimothyEdwards/magic)
@@ -238,13 +287,20 @@ A curated list of awesome open source hardware tools.
   * Python GDS layout and CAD geometry creation
 
 ## FPGA Design
-
+* [byteman](https://github.com/FPGA-Research-Manchester/byteman)
+  * Bitstream relocation and manipulation tool
 * [icestudio](https://github.com/FPGAwars/icestudio)
   * Visual editor for open FPGA boards
 * [nextpnr](https://github.com/YosysHQ/nextpnr)
   * FPGA place and route tool
 * [openfpgaloader](https://github.com/trabucayre/openFPGALoader)
   * Universal utility for programming FPGA
+* [flowtune](https://github.com/Yu-Utah/FlowTune)
+  * FPGA synehsis and PNR optimizer
+* [foedag](https://github.com/os-fpga/FOEDAG)
+  * Framework Open EDA Gui
+* [rphax](https://github.com/shariethernet/RPHAX)
+  * Automation flow to develop and prototype hardware accelerators on Xilinx FPGAs
 * [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
   * FPGA place and route tool
 
@@ -264,15 +320,20 @@ A curated list of awesome open source hardware tools.
   * Microsoft research theorem prover.
 
 ## Simulation and Analysis
-
+* [adc-eval](https://github.com/esynr3z/adc-eval)
+  * Python tools for ADC performance analysis
 * [anasysmod](https://github.com/sgherbst/anasymod)
   * Framework for FPGA emulation of mixed-signal systems
 * [awsteria_infra](https://github.com/bluespec/AWSteria_Infra)
   * Middleware for AWS hosted FPGA applications
+* [bigspicy](https://github.com/google/bigspicy)
+  * Tool for merging circuit descriptions
 * [champsim](https://github.com/ChampSim/ChampSim)
   * Trace-based simulator for a microarchitecture study.
 * [cocotb](https://github.com/cocotb/cocotb)
   * Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [cvc](https://github.com/d-m-bailey/cvc)
+  * CVC: Circuit Validity Checker. Check for errors in CDL netlist
 * [devsim](https://github.com/devsim)
   * TCAD Semiconductor Device Simulator
 * [dromajo](https://github.com/chipsalliance/dromajo)
@@ -281,6 +342,10 @@ A curated list of awesome open source hardware tools.
   * Browser-based SPICE circuit simulator
 * [essent](https://github.com/ucsc-vama/essent)
   * High-perofrmance FIRRTL (Chisel) simulator
+* [Fault](https://github.com/AUCOHL/Fault)
+  * Design-for-testing (DFT) Solution
+* [frame](https://github.com/maestro-project/frame)
+  * Fast Roofline Analytical Modeling and Estimation
 * [firesim](https://github.com/firesim/firesim)
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [fstdumper](https://github.com/semify-eda/fstdumper)
@@ -297,6 +362,8 @@ A curated list of awesome open source hardware tools.
   * Thermal modeleing tool for use in architectural studies
 * [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)
   * SystemC/TLM-2.0 Co-simulation framework
+* [maestro](https://github.com/maestro-project/maestro)
+  * Analytical cost model evaluating DNN mappings (dataflows and tiling)
 * [msdsl](https://github.com/sgherbst/msdsl)
   * Automatic generation of real number models from analog circuits
 * [netlist-paths](https://github.com/jameshanlon/netlist-paths)
@@ -335,6 +402,10 @@ A curated list of awesome open source hardware tools.
   * A free and Open Source Methodology and Library for making very structured VHDL-based testbenches.
 * [verilator](https://github.com/verilator/verilator)
   * SystemVerilog simulator and lint system.
+* [v2k-top](https://github.com/kev-cam/v2k-top)
+  * Parser/simulation framework for Verilog & C++
+* [vidbo](https://github.com/olofk/vidbo)
+  * Virtual development board
 * [vunit](https://github.com/VUnit/vunit)
   * Unit testing framework for VHDL/SystemVerilog
 * [xyce](https://github.com/Xyce/Xyce)

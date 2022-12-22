@@ -82,7 +82,6 @@ A curated list of awesome open source hardware tools.
   * Python design toolkit for Verilog HDL
 * [rohd](https://github.com/intel/rohd)
   * Dart based framework for describing and verifying hardware
-
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
 * [skidl](https://github.com/devbisme/skidl)
@@ -175,6 +174,8 @@ A curated list of awesome open source hardware tools.
   * Spatial array machine learning accelerator generator
 * [gen_registers](https://github.com/lsteveol/gen_registers)
   * Python based tool for generating hardware registers and their associated files
+* [kaktus2dev](https://github.com/kactus2/kactus2dev)
+  * Graphical EDA tool based on the IP-XACT standard
 * [lake](https://github.com/StanfordAHA/lake)
   * Synthesizable memory generator
 * [litex](https://github.com/enjoy-digital/litex)
@@ -201,8 +202,6 @@ A curated list of awesome open source hardware tools.
   * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
 * [tce](https://github.com/cpc/tce)
   * Application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors
-* [kaktus2dev](https://github.com/kactus2/kactus2dev)
-  * Graphical EDA tool based on the IP-XACT standard
 
 ## Design Formats
 
@@ -291,14 +290,14 @@ A curated list of awesome open source hardware tools.
   * Bitstream relocation and manipulation tool
 * [icestudio](https://github.com/FPGAwars/icestudio)
   * Visual editor for open FPGA boards
-* [nextpnr](https://github.com/YosysHQ/nextpnr)
-  * FPGA place and route tool
-* [openfpgaloader](https://github.com/trabucayre/openFPGALoader)
-  * Universal utility for programming FPGA
 * [flowtune](https://github.com/Yu-Utah/FlowTune)
   * FPGA synehsis and PNR optimizer
 * [foedag](https://github.com/os-fpga/FOEDAG)
   * Framework Open EDA Gui
+* [nextpnr](https://github.com/YosysHQ/nextpnr)
+  * FPGA place and route tool
+* [openfpgaloader](https://github.com/trabucayre/openFPGALoader)
+  * Universal utility for programming FPGA
 * [rphax](https://github.com/shariethernet/RPHAX)
   * Automation flow to develop and prototype hardware accelerators on Xilinx FPGAs
 * [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
@@ -386,6 +385,8 @@ A curated list of awesome open source hardware tools.
   * Python interface for ngspice and xyce
 * [pyuvm](https://github.com/pyuvm/pyuvm)
   * SystemVerilog UVM written in Python
+* [renode](https://github.com/renode/renode)
+  * Generic and open source machine emulator (including multi-part and peripheral) designed to run unmodified firmware which includes co-simulation with RTL simulators.
 * [SimulIDE](https://github.com/SimulIDE/SimulIDE)
   * SimulIDE is a simple real-time electronic circuit simulator
 * [svlint](https://github.com/dalance/svlint)
@@ -396,8 +397,6 @@ A curated list of awesome open source hardware tools.
   * Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
   * Demo system for libsystemctlm-soc library
-* [renode](https://github.com/renode/renode)
-  * Generic and open source machine emulator (including multi-part and peripheral) designed to run unmodified firmware which includes co-simulation with RTL simulators.
 * [uvvm](https://github.com/UVVM/UVVM)
   * A free and Open Source Methodology and Library for making very structured VHDL-based testbenches.
 * [verilator](https://github.com/verilator/verilator)
@@ -426,16 +425,16 @@ A curated list of awesome open source hardware tools.
 
 ## Benchmark Circuits
 
-* [epfl-benchmarks](https://github.com/lsils/benchmarks)
-  * Combinational Benchmark Suite for logic synthesis
 * [bsg_pipeclean_suite](https://github.com/bespoke-silicon-group/bsg_pipeclean_suite)
   * Collection of designs used to stress test new CAD flows
 * [corescore](https://github.com/olofk/corescore)
   * Benchmark for FPGAs and their synthesis/P&R tools
-* [rdf-2020](https://github.com/ieee-ceda-datc/RDF-2020)
-  * IEEE CEDA eda benchmark flow
+* [epfl-benchmarks](https://github.com/lsils/benchmarks)
+  * Combinational Benchmark Suite for logic synthesis
 * [opdb](https://github.com/PrincetonUniversity/OPDB)
   * Princeton design benchmark generators
+* [rdf-2020](https://github.com/ieee-ceda-datc/RDF-2020)
+  * IEEE CEDA eda benchmark flow
 * [sv-tests](https://github.com/chipsalliance/sv-tests)
   * SystemVerilog compliance test suite
 
@@ -460,12 +459,12 @@ A curated list of awesome open source hardware tools.
   * Sphinx plugin to automatically generate diagrams from RTL.
 * [symbolator](https://github.com/kevinpt/symbolator)
   * HDL symbol generator
+* [undulate](https://github.com/LudwigCRON/undulate)
+  * Python compatible wavedrom module with extensions and console rendering support
 * [wavedrom](https://github.com/wavedrom/wavedrom)
   * Digital timing diagram rendering engine
 * [wavedrompy](https://github.com/wallento/wavedrompy)
   * Python comptabled Wavedrom module
-* [undulate](https://github.com/LudwigCRON/undulate)
-  * Python compatible wavedrom module with extensions and console rendering support
 
 ## Other Awesome Lists
 
@@ -477,13 +476,13 @@ A curated list of awesome open source hardware tools.
   * A curated list of Computer Engineering/Architecture resources
 * [delftopenhardware](https://github.com/delftopenhardware/awesome-open-hardware)
   * Open hardware materials
-* [hdl](https://github.com/hdl/awesome)
-  * Hardware description resources
-* [pkuzjx](https://github.com/pkuzjx/eda-collection)
-  * Open source EDA resources
 * [drom](https://github.com/drom/awesome-hdl)
   * HDL languages
+* [hdl](https://github.com/hdl/awesome)
+  * Hardware description resources
 * [mattvenn](https://github.com/mattvenn/awesome-opensource-asic-resources)
   * ASIC resources
+* [pkuzjx](https://github.com/pkuzjx/eda-collection)
+  * Open source EDA resources
 * [semiconduoctor-startups](https://github.com/aolofsson/awesome-semiconductor-startups)
   * Semiconductor startups

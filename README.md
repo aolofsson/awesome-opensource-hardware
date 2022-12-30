@@ -24,6 +24,8 @@ A curated list of awesome open source hardware tools.
   * Fake RAM generator
 * [calyx](https://github.com/cucapra/calyx)
   * Intermediate language and infrastructure for building compilers that generate custom hardware accelerators
+* [cfu-playground](https://github.com/google/CFU-Playground/)
+  * Famework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers
 * [chisel](https://github.com/chipsalliance/chisel3)
   * Scala based hardware description language
 * [circt](https://github.com/llvm/circt)

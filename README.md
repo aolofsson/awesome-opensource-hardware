@@ -182,6 +182,8 @@ A curated list of awesome open source hardware tools.
   * Synthesizable memory generator
 * [litex](https://github.com/enjoy-digital/litex)
   * Framework for FPGA and soc development
+* [opencgra](https://github.com/pnnl/OpenCGRA)
+  * Parametrizable Coarse-Grained Reconfigurable Array (CGRA) Generator
 * [openfasoc](https://github.com/idea-fasoc/OpenFASOC)
   * Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits
 * [openfpga](https://github.com/lnis-uofu/OpenFPGA)

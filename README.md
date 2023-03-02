@@ -13,20 +13,20 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 # Table of Contents
 
-* ProductivityTools
+* Tools
   * [Analog Design](#analog-design)
   * [Board Design](#board-design)
   * [Digital Design](#digital-design)
   * [FPGA Design](#fpga-design)
   * [Layout](#layout)
-  * [Waveform Viewers](#waveform-viewers) 
+  * [Waveform Viewers](#waveform-viewers)
   * [Compilers](#compilers)
   * [Build Systems](#build-systems)
   * [Benchmarks](#benchmarks)
   * [Documentation](#documentation)
   * [EDA](#eda-interfaces)
 
-* Designs (Generators and reusable modules)
+* Designs
   * [Accelerators](#accelerators)
   * [Analog](#analog)
   * [Board](#board)
@@ -36,7 +36,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Memory Generators](#memory)
   * [Packaging](#packaging)
   * [Systems](#systems)
-  
+
 # Tools
 
 ## Analog Design
@@ -48,7 +48,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [bigspicy](https://github.com/google/bigspicy)
   * Tool for merging circuit descriptions
 * [cvc](https://github.com/d-m-bailey/cvc)
-  * CVC: Circuit Validity Checker. Check for errors in CDL netlist  
+  * CVC: Circuit Validity Checker. Check for errors in CDL netlist
 * [devsim](https://github.com/devsim)
   * TCAD Semiconductor Device Simulator
 * [eesim](https://github.com/danchitnis/EEsim)
@@ -68,9 +68,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [OpenPLC_v3](https://github.com/thiagoralves/OpenPLC_v3)
   * OpenPLC Runtime version 3
 * [oregano](https://github.com/drahnr/oregano)
-  * Schematic capture and circuit simulator  
+  * Schematic capture and circuit simulator
 * [pact](https://github.com/peaclab/PACT)
-  * Thermal Simulator  
+  * Thermal Simulator
 * [pyspice](https://github.com/PySpice-org/PySpice)
   * Python interface for ngspice and xyce
 * [qucs_s](https://github.com/ra3xdh/qucs_s)
@@ -110,11 +110,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [cvc5](https://github.com/cvc5/cvc5)
   * SMT automatic theorem prover
 * [dromajo](https://github.com/chipsalliance/dromajo)
-  * RISC-V RV64GC functional emulator  
+  * RISC-V RV64GC functional emulator
 * [essent](https://github.com/ucsc-vama/essent)
   * High-performance FIRRTL (Chisel) simulator
 * [firesim](https://github.com/firesim/firesim)
-  * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud  
+  * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [frame](https://github.com/maestro-project/frame)
   * Fast Roofline Analytical Modeling and Estimation
 * [fstdumper](https://github.com/semify-eda/fstdumper)
@@ -122,7 +122,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
 * [gen_registers](https://github.com/lsteveol/gen_registers)
-  * Python based tool for generating hardware registers and their associated files  
+  * Python based tool for generating hardware registers and their associated files
 * [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator
 * [icarus](https://github.com/steveicarus/iverilog.git)
@@ -130,7 +130,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [ilang](https://github.com/PrincetonUniversity/ILAng)
   * Princeton modeling and Verification Platform for SoCs using ILAs
 * [kaktus2dev](https://github.com/kactus2/kactus2dev)
-  * Graphical EDA tool based on the IP-XACT standard  
+  * Graphical EDA tool based on the IP-XACT standard
 * [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)
   * SystemC/TLM-2.0 Co-simulation framework
 * [maestro](https://github.com/maestro-project/maestro)
@@ -142,7 +142,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [osvvm](https://github.com/OSVVM/OsvvmLibraries)
   * A VHDL verification framework
 * [qemu](https://github.com/qemu/qemu)
-  * Generic and open source machine & userspace emulator and virtualizer  
+  * Generic and open source machine & userspace emulator and virtualizer
 * [pono](https://github.com/upscale-project/pono)
   * Extensible SMT-based model checker implemented in C++.
 * [pyuvm](https://github.com/pyuvm/pyuvm)
@@ -150,7 +150,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator
 * [rggen](https://github.com/rggen/rggen)
-  * Configuration and status register generator  
+  * Configuration and status register generator
 * [sby](https://github.com/YosysHQ/sby)
   * Front-end for Yosys-based formal verification flows.
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
@@ -160,7 +160,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [svlint-action](https://github.com/dalance/svlint-action)
   * GitHub action for svlint
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)
-  * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language  
+  * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
 * [tce](https://github.com/cpc/tce)
   * Application-specific instruction-set processor (ASIP) toolset
 * [uvvm](https://github.com/UVVM/UVVM)
@@ -177,9 +177,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Microsoft research theorem prover.
 
 ## FPGA Design
-
+* [amf-placer](https://github.com/zslwyuan/AMF-Placer)
+  * Timing-driven analytical mixed-size FPGA placer
 * [byteman](https://github.com/FPGA-Research-Manchester/byteman)
   * Bitstream relocation and manipulation tool
+* [dreamplacefpga](https://github.com/rachelselinar/DREAMPlaceFPGA)
+  * Analytical Placer for Large Scale Heterogeneous FPGA
 * [icestudio](https://github.com/FPGAwars/icestudio)
   * Visual editor for open FPGA boards
 * [flowtune](https://github.com/Yu-Utah/FlowTune)
@@ -200,7 +203,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [align](https://github.com/ALIGN-analoglayout/ALIGN-public)
   * Automatic layout generator for analog circuits
 * [bag](https://github.com/ucb-art/BAG_framework)
-  * Berkeley analog layout generator  
+  * Berkeley analog layout generator
 * [chip_art](https://github.com/jazvw/chip_art)
   * Convert an image to a GDS format for inclusion in a zerotoasic project
 * [coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis.git)
@@ -245,7 +248,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Text-based SystemVerilog design browser and waveform viewer
 * [sootty](https://github.com/Ben1152000/sootty)
   * Command-line tool for displaying vcd waveforms
-  
+
 ## Build Systems
 
 * [bazelhdl](https://github.com/hdl/bazel_rules_hdl)
@@ -322,17 +325,17 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [lsoracle](https://github.com/lnis-uofu/LSOracle)
   * Famework built on EPFL logic synthesis libraries.
 * [lstools](https://github.com/lsils/lstools-showcase)
-  * Showcase examples for EPFL logic synthesis libraries  
+  * Showcase examples for EPFL logic synthesis libraries
 * [kami](https://github.com/mit-plv/kami)
   * Platform for High-Level Parametric Hardware Specification and its Modular Verification
 * [magma](https://github.com/phanrahan/magma/)
-  * Python based hardware design language  
+  * Python based hardware design language
 * [matchlib](https://github.com/NVlabs/matchlib)
   * Synthesizable SystemC/C++ library of commonly-used hardware functions
 * [matchclib_connections](https://github.com/hlslibs/matchlib_connections)
   * Synthesizable SystemC library implementing latency-insensitive channels
 * [mockturtle](https://github.com/lsils/mockturtle)
-  * C++ logic network library  
+  * C++ logic network library
 * [myhdl](https://github.com/myhdl/myhdl)
   * Python based hardware description and verification language
 * [naja](https://github.com/xtofalex/naja)
@@ -482,7 +485,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor)
   * GPGPU microprocessor architecture
 * [opencgra](https://github.com/pnnl/OpenCGRA)
-  * Parametrizable Coarse-Grained Reconfigurable Array (CGRA) Generator  
+  * Parametrizable Coarse-Grained Reconfigurable Array (CGRA) Generator
 * [openofdm](https://github.com/jhshi/openofdm)
   * 802.11 OFDM PHY decoder
 * [sha3](https://github.com/ucb-bar/sha3)
@@ -503,7 +506,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Parametrizable combinatorial parallel LFSR/CRC module
 * [vortex](https://github.com/vortexgpgpu/vortex)
   * Full-system RISCV-based GPGPU processor
-  
+
 ## Analog
 
 * [AMS_KGD](https://github.com/USCPOSH/AMS_KGD)
@@ -511,7 +514,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [analog_blocks](https://github.com/mabrains/Analog_blocks)
   * Basic building blocks (OTA, BandGap and LDO) in Skywater 130nm.
 * [openfasoc](https://github.com/idea-fasoc/OpenFASOC)
-  * Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits     
+  * Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits
 * [open-pmic](https://github.com/westonb/open-pmic)
   * Current mode buck converter on the SKY130 PDK
 

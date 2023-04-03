@@ -25,7 +25,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Digital](#digital-design)
   * [Documentation](#documentation)
   * [FPGA](#fpga-design)
-  * [Registers](#register-tools)
+  * [Registers](#register-design)
 
 ## Verification
   * [Analog](#analog-verification)
@@ -88,6 +88,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Circuit IR Compilers and Tools
 * [clash](https://github.com/clash-lang/clash-compiler)
   * Haskell to VHDL/Verilog/SystemVerilog compiler
+* [cocotbext-axi](https://github.com/alexforencich/cocotbext-axi)
+  * AXI interface modules for Cocotb
+* [cocotbext-pcie](https://github.com/alexforencich/cocotbext-pcie)
+  * PCI express simulation framework for Cocotb
 * [coreir](https://github.com/rdaly525/coreir)
   * LLVM-style hardware compiler with first class support for generators
 * [dfiant](https://github.com/DFiantHDL/DFiant)
@@ -258,6 +262,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * LVS tool for comparing SPICE or verilog netlists
 * [phidl](https://github.com/amccaugh/phidl)
   * Python GDS layout and CAD geometry creation
+* [probe3.0](https://github.com/ABKGroup/PROBE3.0)
+  * Process/design DTCO path finding technology
 
 ## Digital Design
 * [circuitgraph](https://github.com/circuitgraph/circuitgraph)
@@ -268,6 +274,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Documentation
 * [graphviz](https://github.com/xflr6/graphviz)
   * Python library for graph cration and rendering in DOT language
+* [memory-layout-diagram](https://github.com/gerph/memory-layout-diagram)
+  * Diagrams for memory map layouts
 * [netlistsvg](https://github.com/nturley/netlistsvg)
   * draws an SVG schematic from a JSON netlist
 * [pcbdraw](https://github.com/yaqwsx/PcbDraw)
@@ -303,7 +311,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [rphax](https://github.com/shariethernet/RPHAX)
   * Automation flow to develop and prototype hardware accelerators on Xilinx FPGAs
 
-## Register Tools
+## Register Design
 * [gen_registers](https://github.com/lsteveol/gen_registers)
   * Python based tool for generating hardware registers and their associated files
 * [rggen](https://github.com/rggen/rggen)
@@ -339,13 +347,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [pact](https://github.com/peaclab/PACT)
   * Thermal Simulator
 * [pyaedt](https://github.com/pyansys/pyaedt)
-  * AEDT Python Client Package
+  * Ansys AEDT Python Client Package
 * [pydpf-core](https://github.com/pyansys/pydpf-core)
-  * Data Processing Framework - Python Core
+  * Ansys core processing framework
 * [pyfluent](https://github.com/pyansys/pyfluent)
-  * Pythonic interface to Ansys Fluent
+  * Ansys interface to Ansys Fluent
 * [pymapdl](https://github.com/pyansys/pymapdl)
-  * Pythonic interface to MAPDL
+  * Ansys interface to MAPDL
 * [pyspice](https://github.com/PySpice-org/PySpice)
   * Python interface for ngspice and xyce
 * [SimulIDE](https://github.com/SimulIDE/SimulIDE)
@@ -414,14 +422,20 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Generic and open source machine & userspace emulator and virtualizer
 * [pono](https://github.com/upscale-project/pono)
   * Extensible SMT-based model checker implemented in C++.
+* [pyucis](https://github.com/fvutils/pyucis)
+  * Python API to Unified Coverage Interoperability Standard (UCIS) Data
 * [pyuvm](https://github.com/pyuvm/pyuvm)
   * SystemVerilog UVM written in Python
+* [pyvsc](https://github.com/fvutils/pyvsc)
+  * Python packages or SystemVerilog UVM style Verification Stimulus and Coverage
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator
 * [sby](https://github.com/YosysHQ/sby)
   * Front-end for Yosys-based formal verification flows.
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
   * Demo system for libsystemctlm-soc library
+* [sv_waveterm](https://github.com/PeterMonsson/sv_waveterm)
+  * Generate text waves in simulation log file
 * [svlint](https://github.com/dalance/svlint)
   * SystemVerilog linter
 * [svlint-action](https://github.com/dalance/svlint-action)
@@ -442,6 +456,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Microsoft research theorem prover.
 
 ## Waveform viewers
+* [d3wave](https://github.com/Nic30/d3-wave)
+  * D3.js based wave (signal) visualizer
 * [gtkwave](https://github.com/gtkwave/gtkwave)
   * GTK+ based VCD waveform viewer
 * [konata](https://github.com/shioyadan/Konata)
@@ -494,6 +510,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Parametrizable Coarse-Grained Reconfigurable Array (CGRA) Generator
 * [openofdm](https://github.com/jhshi/openofdm)
   * 802.11 OFDM PHY decoder
+* [openspike](https://github.com/sfmth/OpenSpike)
+  * Spiking neural network accelerator
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
 * [Serpens](https://github.com/linghaosong/Serpens)
@@ -624,6 +642,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SErial RISC-V CPU
 * [snitch](https://github.com/pulp-platform/snitch)
   * Lean but mean RISC-V system
+* [vroom]](https://github.com/MoonbaseOtago/vroom)
+  * High performance RISC-V CPU
 
 ## FPGA Architectures
 * [FABulous](https://github.com/FPGA-Research-Manchester/FABulous)
@@ -664,6 +684,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Synthesizable memory generator
 
 ## Systems
+* [caliptra](https://github.com/chipsalliance/caliptra-rtl)
+  * Caliptra Root of Trust
 * [Beagle_SDR_GPS](https://github.com/jks-prv/Beagle_SDR_GPS)
   * KiwiSDR: BeagleBone web-accessible GPS/SDR
 * [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)

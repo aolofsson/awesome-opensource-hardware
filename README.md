@@ -150,6 +150,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python design toolkit for Verilog HDL
 * [rohd](https://github.com/intel/rohd)
   * Dart based framework for describing and verifying hardware
+* [sandpiper-saas](https://gitlab.com/rweda/sandpiper-saas)
+  * A CLI to Redwood EDA, LLC's free SandPiper™ TL-Verilog compiler microservice
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
 * [skidl](https://github.com/devbisme/skidl)
@@ -268,6 +270,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Digital Design
 * [circuitgraph](https://github.com/circuitgraph/circuitgraph)
   * Tools for working with circuits as graphs in python
+* [makerchip-app](https://gitlab.com/rweda/makerchip-app)
+  * Launches Makerchip.com as a virtual desktop application
 * [verilog-mode](https://www.veripool.org/verilog-mode/)
   * Popular free Verilog mode for Emacs
 
@@ -300,6 +304,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python comptabled Wavedrom module
 
 ## FPGA Design
+* [1st-class](https://github.com/os-fpga/1st-CLaaS)
+  * Framework for FPGA cloud accelerators
 * [byteman](https://github.com/FPGA-Research-Manchester/byteman)
   * Bitstream relocation and manipulation tool
 * [icestudio](https://github.com/FPGAwars/icestudio)
@@ -310,6 +316,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Universal utility for programming FPGA
 * [rphax](https://github.com/shariethernet/RPHAX)
   * Automation flow to develop and prototype hardware accelerators on Xilinx FPGAs
+* [virtual-fpga-lab](https://github.com/os-fpga/Virtual-FPGA-Lab)
+  * FPGA development in your browser
 
 ## Register Design
 * [gen_registers](https://github.com/lsteveol/gen_registers)
@@ -642,8 +650,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SErial RISC-V CPU
 * [snitch](https://github.com/pulp-platform/snitch)
   * Lean but mean RISC-V system
-* [vroom]](https://github.com/MoonbaseOtago/vroom)
+* [vroom](https://github.com/MoonbaseOtago/vroom)
   * High performance RISC-V CPU
+* [warp-v](https://github.com/stevehoover/warp-v)
+  * TL-Verilog CPU core/many-core generator (RISC-V, etc.) with visualization
 
 ## FPGA Architectures
 * [FABulous](https://github.com/FPGA-Research-Manchester/FABulous)

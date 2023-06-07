@@ -642,7 +642,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SErial RISC-V CPU
 * [snitch](https://github.com/pulp-platform/snitch)
   * Lean but mean RISC-V system
-* [vroom]](https://github.com/MoonbaseOtago/vroom)
+* [vroom](https://github.com/MoonbaseOtago/vroom)
   * High performance RISC-V CPU
 
 ## FPGA Architectures

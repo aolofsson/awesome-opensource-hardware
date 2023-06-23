@@ -12,6 +12,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 # Table of Contents
 
+## PDKs
+   * [Manufacturable](#manufacturable-pdks)
+   * [Virtual](#virtual-pdks)
+
 ## Compilers
   * [Build Systems](#build-systems)
   * [Digital](#digital-compilers)
@@ -45,6 +49,23 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Memory](#memory)
   * [Systems](#systems)
 
+# PDKs
+
+## Manufacturable PDKs
+
+* [GF180](https://github.com/google/gf180mcu-pdk)
+  * GlobalFoundries 180nm CMOS PDK
+* [SG13G2](https://github.com/IHP-GmbH/IHP-Open-PDK)
+  * IHP 130nm BiCMOS PDK
+* [SKY130](https://github.com/google/skywater-pdk)
+  * Skywater 130nm CMOS PDK
+
+## Virtual PDKs
+* [freepdk45](https://github.com/siliconcompiler/siliconcompiler/tree/main/third_party/pdks/virtual/freepdk45)
+  * Predictive 45nm PDK
+* [asap7](https://github.com/The-OpenROAD-Project/asap7)
+  * Predictive 7nm PDK
+
 # Compilers
 
 ## Build Systems
@@ -58,6 +79,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * An infrastructure for integrated EDA
 * [edalize](https://github.com/olofk/edalize)
   * An abstraction library for interfacing EDA tools.
+* [f4fpga](https://github.com/chipsalliance/f4pga)
+  * FPGA build system
 * [fusesoc](https://github.com/olofk/fusesoc)
   * Package manager and build abstraction tool for FPGA/ASIC development.
 * [hammer](https://github.com/ucb-bar/hammer)
@@ -68,6 +91,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Command line HDL package manager and development tool.
 * [mflowgen](https://github.com/mflowgen/mflowgen)
   * Build-system generator for ASIC and FPGA design-space exploration.
+* [ParaView](https://github.com/Kitware/ParaView)
+  * Data analysis and visualization toolkit
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Build system that automates translation from source code to silicon.
 
@@ -172,6 +197,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemC system design and verification language that spans hardware and software
 * [systemc-compiler](https://github.com/intel/systemc-compiler)
   * Translates synthesizable SystemC to synthesizable Verilog
+* [tapasco](https://github.com/esa-tu-darmstadt/tapasco)
+  * Heterogeneous system composer
 * [uhdm](https://github.com/chipsalliance/UHDM)
   * Universal object model for IEEE SystemVerilog designs
 * [verible](https://github.com/chipsalliance/verible)
@@ -192,6 +219,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Timing-driven analytical mixed-size FPGA placer
 * [dreamplacefpga](https://github.com/rachelselinar/DREAMPlaceFPGA)
   * Analytical Placer for Large Scale Heterogeneous FPGA
+
+* [fpga-tool-perf](https://github.com/chipsalliance/fpga-tool-perf)
+  * FPGA tool performance profiling
 * [flowtune](https://github.com/Yu-Utah/FlowTune)
   * FPGA synehsis and PNR optimizer
 * [nextpnr](https://github.com/YosysHQ/nextpnr)
@@ -238,6 +268,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * 3D parametric CAD for building models of components for KiCad 3D preview (also enclosures)
 * [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
+* [kicanvas](https://github.com/theacodes/kicanvas)
+  * KiCAD web viewer
 * [pcbflow](https://github.com/michaelgale/pcbflow)
   * Python based Printed Circuit Board (PCB) layout and design package based on CuFlow
 
@@ -274,6 +306,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Documentation
 * [graphviz](https://github.com/xflr6/graphviz)
   * Python library for graph cration and rendering in DOT language
+* [kythe](https://github.com/chipsalliance/verible/blob/master/verilog/tools/kythe)
+  * Verible based SystemVerilog source file indexer
 * [memory-layout-diagram](https://github.com/gerph/memory-layout-diagram)
   * Diagrams for memory map layouts
 * [netlistsvg](https://github.com/nturley/netlistsvg)
@@ -332,6 +366,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * TCAD Semiconductor Device Simulator
 * [eesim](https://github.com/danchitnis/EEsim)
   * Browser-based SPICE circuit simulator
+* [femwell](https://github.com/HelgeGehring/femwell)
+  * Finite element based simulation tool for integrated circuits, electric and photonic!
 * [lctime](https://codeberg.org/librecell/lctime)
   * Library cell characterization
 * [hotspot](https://github.com/uvahotspot/HotSpot)
@@ -364,6 +400,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Parallel spice simulator from Sandia national labs
 
 ## Benchmarks
+* [big-doe-openroad](https://github.com/msaligane/Big-DoE-OpenROAD)
+  * Framework for launching massive RTL2GDS experiements
+* [bringup-bench](https://github.com/toddmaustin/bringup-bench)
+  * Collection of minimal programs useful for system bringup
 * [bsg_pipeclean_suite](https://github.com/bespoke-silicon-group/bsg_pipeclean_suite)
   * Collection of designs used to stress test new CAD flows
 * [corescore](https://github.com/olofk/corescore)
@@ -608,6 +648,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## CPUs
 * [a2i](https://github.com/openpower-cores/a2i)
   * A2I POWER processor core RTL (VHDL)
+* [ara](https://github.com/pulp-platform/ara)
+  * 64-bit Vector unit coprocessor to Ccva6
 * [black-parrot](https://github.com/black-parrot/black-parrot)
   * Linux-capable RISC-V multicore
 * [cfu-playground](https://github.com/google/CFU-Playground/)
@@ -642,7 +684,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SErial RISC-V CPU
 * [snitch](https://github.com/pulp-platform/snitch)
   * Lean but mean RISC-V system
-* [vroom]](https://github.com/MoonbaseOtago/vroom)
+* [veer](https://github.com/chipsalliance/Cores-VeeR-EL2)
+  * 32-bit integer machine-mode RISC-V CPU
+* [vroom](https://github.com/MoonbaseOtago/vroom)
   * High performance RISC-V CPU
 
 ## FPGA Architectures
@@ -684,8 +728,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Synthesizable memory generator
 
 ## Systems
-* [caliptra](https://github.com/chipsalliance/caliptra-rtl)
-  * Caliptra Root of Trust
+* [caliptra](https://github.com/chipsalliance/caliptra)
+  * Caliptra Root of Trust Architecture
+* [caliptra-rtl](https://github.com/chipsalliance/caliptra-rtl)
+  * Caliptra Root of Trust (RTL)
 * [Beagle_SDR_GPS](https://github.com/jks-prv/Beagle_SDR_GPS)
   * KiwiSDR: BeagleBone web-accessible GPS/SDR
 * [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)
@@ -694,6 +740,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * RISC-V based Common Evaluation Platform (CEP)
 * [esp](https://github.com/sld-columbia/esp)
   * Heterogeneous SoC architecture and IP design platform
+* [falcon](https://github.com/falkenber9/falcon)
+  * Fast Analysis of LTE Control channels
 * [hero](https://github.com/pulp-platform/hero)
   * FPGA-based research platform for heterogeneous design
 * [litex](https://github.com/enjoy-digital/litex)
@@ -714,6 +762,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Mixed-signal system on chip for nanopore-based DNA sequencing
 * [VerilogBoy](https://github.com/zephray/VerilogBoy)
   * Game Boy compatible machine with Verilog
+* [wulpus](https://github.com/pulp-bio/wulpus)
+  * Wearable low-power ultrasound probe
 
 ----
 

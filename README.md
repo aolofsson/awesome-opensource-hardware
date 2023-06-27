@@ -764,6 +764,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Game Boy compatible machine with Verilog
 * [wulpus](https://github.com/pulp-bio/wulpus)
   * Wearable low-power ultrasound probe
+* [x-heep](https://github.com/esl-epfl/x-heep)
+  * Extendable and configurable RISC-V SoC
 
 ----
 

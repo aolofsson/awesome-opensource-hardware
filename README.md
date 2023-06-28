@@ -81,6 +81,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * An abstraction library for interfacing EDA tools.
 * [f4fpga](https://github.com/chipsalliance/f4pga)
   * FPGA build system
+* [flgen](https://github.com/pezy-computing/flgen)
+  * Generate a filelist for EDA tools
 * [fusesoc](https://github.com/olofk/fusesoc)
   * Package manager and build abstraction tool for FPGA/ASIC development.
 * [hammer](https://github.com/ucb-bar/hammer)
@@ -350,6 +352,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python based tool for generating hardware registers and their associated files
 * [rggen](https://github.com/rggen/rggen)
   * Configuration and status register generator
+* [peakrdl](https://github.com/SystemRDL/PeakRDL)
+  * SystemRDL based control & status register (CSR) toolchain
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)
   * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
 
@@ -485,7 +489,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [tvip-apb](https://github.com/taichi-ishitani/tvip-apb)
   * UVM based AMBA APB VIP
 * [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
-  * UVM based AMBA AXI VIP 
+  * UVM based AMBA AXI VIP
 * [uvvm](https://github.com/UVVM/UVVM)
   * Library for making very structured VHDL-based testbenches.
 * [verilator](https://github.com/verilator/verilator)

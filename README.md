@@ -482,6 +482,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * GitHub action for svlint
 * [tce](https://github.com/cpc/tce)
   * Application-specific instruction-set processor (ASIP) toolset
+* [tvip-apb](https://github.com/taichi-ishitani/tvip-apb)
+  * UVM based AMBA APB VIP
+* [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
+  * UVM based AMBA AXI VIP 
 * [uvvm](https://github.com/UVVM/UVVM)
   * Library for making very structured VHDL-based testbenches.
 * [verilator](https://github.com/verilator/verilator)

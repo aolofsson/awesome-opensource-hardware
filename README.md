@@ -474,6 +474,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python packages or SystemVerilog UVM style Verification Stimulus and Coverage
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator
+* [rohd-cosim](https://github.com/intel/rohd-cosim)
+  * Framework for cosimulation between the [ROHD](https://github.com/intel/rohd) simulator and SystemVerilog simulators.
+* [rohd-vf](https://github.com/intel/rohd-vf)
+  * [ROHD](https://github.com/intel/rohd)-based verification and testbench framework in Dart.
 * [sby](https://github.com/YosysHQ/sby)
   * Front-end for Yosys-based formal verification flows.
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
@@ -720,6 +724,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Library of Verilog components
 * [pzbcm](https://github.com/pezy-computing/pzbcm)
   * Basic common modules
+* [rohd-hcl](https://github.com/intel/rohd-hcl)
+  * Library of reusable & configurable hardware components developed with [ROHD](https://github.com/intel/rohd), convertible to SystemVerilog, including testbench components.
 * [vlsiffra](https://github.com/antonblanchard/vlsiffra)
   * Fast and efficient standard cell based adders, multipliers and multiply-adders
 

@@ -175,7 +175,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python package to make SystemC usable from Python
 * [pyverilog](https://github.com/PyHDI/Pyverilog)
   * Python design toolkit for Verilog HDL
-* [Rapid Open Hardware Development (ROHD) framework](https://github.com/intel/rohd)
+* [rohd](https://github.com/intel/rohd)
   * Dart based framework for describing and verifying hardware
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
@@ -474,9 +474,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python packages or SystemVerilog UVM style Verification Stimulus and Coverage
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator
-* [ROHD Framework Cosimulation (ROHD Cosim)](https://github.com/intel/rohd-cosim)
+* [rohd-cosim](https://github.com/intel/rohd-cosim)
   * Framework for cosimulation between the [ROHD](https://github.com/intel/rohd) simulator and SystemVerilog simulators.
-* [ROHD Verification Framework (ROHD-VF)](https://github.com/intel/rohd-vf)
+* [rohd-vf](https://github.com/intel/rohd-vf)
   * [ROHD](https://github.com/intel/rohd)-based verification and testbench framework in Dart.
 * [sby](https://github.com/YosysHQ/sby)
   * Front-end for Yosys-based formal verification flows.
@@ -724,7 +724,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Library of Verilog components
 * [pzbcm](https://github.com/pezy-computing/pzbcm)
   * Basic common modules
-* [ROHD Hardware Component Library (ROHD-HCL)](https://github.com/intel/rohd-hcl)
+* [rohd-hcl](https://github.com/intel/rohd-hcl)
   * Library of reusable & configurable hardware components developed with [ROHD](https://github.com/intel/rohd), convertible to SystemVerilog, including testbench components.
 * [vlsiffra](https://github.com/antonblanchard/vlsiffra)
   * Fast and efficient standard cell based adders, multipliers and multiply-adders

@@ -636,6 +636,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Network on Chip Implementation written in SytemVerilog
 * [USB3 Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
   * USB C Industrial Camera Project
+* [usb_cdc](https://github.com/ulixxe/usb_cdc/)
+  * Minimal USB CDC (ACM) implementation in verilog
+* [usb_dfu](https://github.com/ulixxe/usb_dfu/tree/main)
+  * Verilog implementation of the USB Device Class Specification for Device Firmware Upgrade (DFU), version 1.1
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
   * Verilog AXI stream components for FPGA implementation
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)

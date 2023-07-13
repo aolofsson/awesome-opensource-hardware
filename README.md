@@ -612,6 +612,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * AXI4/AIB Bridge RTL
 * [core_ddr3_controller](https://github.com/ultraembedded/core_ddr3_controller)
   * DDR3 memory controller in Verilog for various FPGAs
+* [ctucanfd_ip_core](https://gitlab.fel.cvut.cz/canbus/ctucanfd_ip_core)
+  * CAN with Flexible Data-rate IP Core developed at Department of Measurement of FEE CTU
 * [hdmi](https://github.com/hdl-util/hdmi)
   * Send video/audio over HDMI on an FPGA
 * [i2c](https://github.com/hdl-util/i2c)

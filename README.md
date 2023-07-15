@@ -30,6 +30,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Documentation](#documentation)
   * [FPGA design](#fpga-design)
   * [Formal verification](#formal-verification)
+  * [Linters](#linters)
   * [Register design](#register-design)
   * [Schematics](#scehamtics)
   * [Simulators](#simulators)
@@ -93,7 +94,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [mflowgen](https://github.com/mflowgen/mflowgen)
   * Build-system generator for ASIC and FPGA design-space exploration.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
-  * Build system that automates translation from source code to silicon.
 
 ## Digital Compilers
 * [abc](https://github.com/berkeley-abc/abc)
@@ -357,6 +357,28 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [rphax](https://github.com/shariethernet/RPHAX)
   * Automation flow to develop and prototype hardware accelerators on Xilinx FPGAs
 
+## Formal Verification
+* [boolector](https://github.com/boolector/boolector)
+  * SMT solver for the theories of fixed-size bit-vectors, arrays and uninterpreted functions
+* [cvc5](https://github.com/cvc5/cvc5)
+  * SMT automatic theorem prover
+* [ilang](https://github.com/PrincetonUniversity/ILAng)
+  * Princeton modeling and Verification Platform for SoCs using ILAs
+* [pono](https://github.com/upscale-project/pono)
+  * Extensible SMT-based model checker implemented in C++.
+* [sby](https://github.com/YosysHQ/sby)
+  * Front-end for Yosys-based formal verification flows.
+* [z3](https://github.com/Z3Prover/z3)
+  * Microsoft research theorem prover
+
+## Linters
+* [svlint](https://github.com/dalance/svlint)
+  * SystemVerilog linter
+* [verible](https://github.com/chipsalliance/verible)
+  * SystemVerilog developer tools, including a parser, style-linter, and formatter
+* [verilator](https://github.com/verilator/verilator)
+  * SystemVerilog simulator and lint system
+
 ## Register Design
 * [gen_registers](https://github.com/lsteveol/gen_registers)
   * Python based tool for generating hardware registers and their associated files
@@ -418,28 +440,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Parallel spice simulator from Sandia national labs
 * [verilator](https://github.com/verilator/verilator)
   * SystemVerilog simulator and lint system
-
-## Linters
-* [svlint](https://github.com/dalance/svlint)
-  * SystemVerilog linter
-* [verible](https://github.com/chipsalliance/verible)
-  * SystemVerilog developer tools, including a parser, style-linter, and formatter
-* [verilator](https://github.com/verilator/verilator)
-  * SystemVerilog simulator and lint system
-
-## Formal Verification
-* [boolector](https://github.com/boolector/boolector)
-  * SMT solver for the theories of fixed-size bit-vectors, arrays and uninterpreted functions
-* [cvc5](https://github.com/cvc5/cvc5)
-  * SMT automatic theorem prover
-* [ilang](https://github.com/PrincetonUniversity/ILAng)
-  * Princeton modeling and Verification Platform for SoCs using ILAs
-* [pono](https://github.com/upscale-project/pono)
-  * Extensible SMT-based model checker implemented in C++.
-* [sby](https://github.com/YosysHQ/sby)
-  * Front-end for Yosys-based formal verification flows.
-* [z3](https://github.com/Z3Prover/z3)
-  * Microsoft research theorem prover
 
 ## Verification Frameworks
 * [adc-eval](https://github.com/esynr3z/adc-eval)

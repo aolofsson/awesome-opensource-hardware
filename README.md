@@ -26,7 +26,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Benchmarks](#benchmarks)
   * [Board design](#board-design)
   * [Chip layout](#chip-layout)
-  * [Digital design](#digital-design)lego
+  * [Digital design](#digital-design)
   * [Documentation](#documentation)
   * [FPGA design](#fpga-design)
   * [Formal verification](#formal-verification)
@@ -246,6 +246,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Deep learning toolkit-enabled VLSI placement
 * [Layout21](https://github.com/dan-fritchman/Layout21)
   * Integrated Circuit Layout
+* [limbo](https://github.com/limbo018/Limbo)
+  * Library for VLSI CAD Design
 * [magical](https://github.com/magical-eda/MAGICAL)
   * Machine Generated Analog IC Layout
 * [openroad](https://github.com/The-OpenROAD-Project/OpenROAD)
@@ -314,6 +316,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Digital Design
 * [verilog-mode](https://www.veripool.org/verilog-mode/)
   * Popular free Verilog mode for Emacs
+* [vscode-systemverilog](https://github.com/eirikpre/VSCode-SystemVerilog)
+  * SystemVerilog support in VS Code
+* [vscode-teroshdl](https://github.com/TerosTechnology/vscode-terosHDL)
+  * Full IDE for RTL development in VS Code
 
 ## Documentation
 * [graphviz](https://github.com/xflr6/graphviz)
@@ -374,6 +380,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Linters
 * [svlint](https://github.com/dalance/svlint)
   * SystemVerilog linter
+* [svlint-action](https://github.com/dalance/svlint-action)
+  * GitHub action for svlint
 * [verible](https://github.com/chipsalliance/verible)
   * SystemVerilog developer tools, including a parser, style-linter, and formatter
 * [verilator](https://github.com/verilator/verilator)
@@ -384,6 +392,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python based tool for generating hardware registers and their associated files
 * [rggen](https://github.com/rggen/rggen)
   * Configuration and status register generator
+* [open-register-design-tool](https://github.com/Juniper/open-register-design-tool)
+  * Generate register RTL, models, and docs using SystemRDL or JSpec input
 * [peakrdl](https://github.com/SystemRDL/PeakRDL)
   * SystemRDL based control & status register (CSR) toolchain
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)
@@ -456,6 +466,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * PCI express simulation framework for Cocotb
 * [cvc](https://github.com/d-m-bailey/cvc)
   * CVC: Circuit Validity Checker
+* [force-riscv](https://github.com/openhwgroup/force-riscv)
+  * Open HW Group RISC-V instruction set generator
 * [frame](https://github.com/maestro-project/frame)
   * Fast Roofline Analytical Modeling and Estimation
 * [fstdumper](https://github.com/semify-eda/fstdumper)
@@ -494,8 +506,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Demo system for libsystemctlm-soc library
 * [sv_waveterm](https://github.com/PeterMonsson/sv_waveterm)
   * Generate text waves in simulation log file
-* [svlint-action](https://github.com/dalance/svlint-action)
-  * GitHub action for svlint
 * [tvip-apb](https://github.com/taichi-ishitani/tvip-apb)
   * UVM based AMBA APB VIP
 * [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
@@ -524,6 +534,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Text-based SystemVerilog design browser and waveform viewer
 * [sootty](https://github.com/Ben1152000/sootty)
   * Command-line tool for displaying vcd waveforms
+* [verilog-vcd-parser](https://github.com/ben-marshall/verilog-vcd-parser)
+  * Parser for Value Change Dump (VCD) files
 
 # Designs & Generators
 

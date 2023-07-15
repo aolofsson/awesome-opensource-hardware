@@ -232,6 +232,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * FPGA place and route tool
 
 ## Layout Compilers
+* [AutoDMP](https://github.com/NVlabs/AutoDMP)
+  * Auto-placement tool; requires DREAMPlace
 * [align](https://github.com/ALIGN-analoglayout/ALIGN-public)
   * Automatic layout generator for analog circuits
 * [bag](https://github.com/ucb-art/BAG_framework)

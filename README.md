@@ -81,6 +81,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * An abstraction library for interfacing EDA tools.
 * [f4fpga](https://github.com/chipsalliance/f4pga)
   * FPGA build system
+* [flgen](https://github.com/pezy-computing/flgen)
+  * Generate a filelist for EDA tools
 * [fusesoc](https://github.com/olofk/fusesoc)
   * Package manager and build abstraction tool for FPGA/ASIC development.
 * [hammer](https://github.com/ucb-bar/hammer)
@@ -350,6 +352,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python based tool for generating hardware registers and their associated files
 * [rggen](https://github.com/rggen/rggen)
   * Configuration and status register generator
+* [peakrdl](https://github.com/SystemRDL/PeakRDL)
+  * SystemRDL based control & status register (CSR) toolchain
 * [systemrdl](https://github.com/SystemRDL/systemrdl-compiler)
   * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
 
@@ -470,6 +474,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python packages or SystemVerilog UVM style Verification Stimulus and Coverage
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator
+* [rohd-cosim](https://github.com/intel/rohd-cosim)
+  * Framework for cosimulation between the [ROHD](https://github.com/intel/rohd) simulator and SystemVerilog simulators.
+* [rohd-vf](https://github.com/intel/rohd-vf)
+  * [ROHD](https://github.com/intel/rohd)-based verification and testbench framework in Dart.
 * [sby](https://github.com/YosysHQ/sby)
   * Front-end for Yosys-based formal verification flows.
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
@@ -482,6 +490,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * GitHub action for svlint
 * [tce](https://github.com/cpc/tce)
   * Application-specific instruction-set processor (ASIP) toolset
+* [tvip-apb](https://github.com/taichi-ishitani/tvip-apb)
+  * UVM based AMBA APB VIP
+* [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
+  * UVM based AMBA AXI VIP
 * [uvvm](https://github.com/UVVM/UVVM)
   * Library for making very structured VHDL-based testbenches.
 * [verilator](https://github.com/verilator/verilator)
@@ -600,6 +612,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * AXI4/AIB Bridge RTL
 * [core_ddr3_controller](https://github.com/ultraembedded/core_ddr3_controller)
   * DDR3 memory controller in Verilog for various FPGAs
+* [ctucanfd_ip_core](https://gitlab.fel.cvut.cz/canbus/ctucanfd_ip_core)
+  * CAN with Flexible Data-rate IP Core developed at Department of Measurement of FEE CTU
 * [hdmi](https://github.com/hdl-util/hdmi)
   * Send video/audio over HDMI on an FPGA
 * [i2c](https://github.com/hdl-util/i2c)
@@ -624,6 +638,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Network on Chip Implementation written in SytemVerilog
 * [USB3 Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
   * USB C Industrial Camera Project
+* [usb_cdc](https://github.com/ulixxe/usb_cdc/)
+  * Minimal USB CDC (ACM) implementation in verilog
+* [usb_dfu](https://github.com/ulixxe/usb_dfu/tree/main)
+  * Verilog implementation of the USB Device Class Specification for Device Firmware Upgrade (DFU), version 1.1
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
   * Verilog AXI stream components for FPGA implementation
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
@@ -712,6 +730,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Library of Verilog components
 * [pzbcm](https://github.com/pezy-computing/pzbcm)
   * Basic common modules
+* [rohd-hcl](https://github.com/intel/rohd-hcl)
+  * Library of reusable & configurable hardware components developed with [ROHD](https://github.com/intel/rohd), convertible to SystemVerilog, including testbench components.
 * [vlsiffra](https://github.com/antonblanchard/vlsiffra)
   * Fast and efficient standard cell based adders, multipliers and multiply-adders
 
@@ -764,6 +784,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Game Boy compatible machine with Verilog
 * [wulpus](https://github.com/pulp-bio/wulpus)
   * Wearable low-power ultrasound probe
+* [x-heep](https://github.com/esl-epfl/x-heep)
+  * Extendable and configurable RISC-V SoC
 
 ----
 

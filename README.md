@@ -48,6 +48,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Memory](#memory)
   * [Systems](#systems)
 
+## Education
+  * [Analog design](#analog-design)
+  * [ASIC design](#asic-design)
+  * [Digital design](#digital-design)
+  * [FPGA Education](#fpga-design)
+
 # PDKs
 
 ## Manufacturable PDKs
@@ -60,10 +66,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Skywater 130nm CMOS PDK
 
 ## Virtual PDKs
-* [freepdk45](https://github.com/siliconcompiler/siliconcompiler/tree/main/third_party/pdks/virtual/freepdk45)
-  * Predictive 45nm PDK
 * [asap7](https://github.com/The-OpenROAD-Project/asap7)
   * Predictive 7nm PDK
+* [freepdk45](https://github.com/siliconcompiler/siliconcompiler/tree/main/third_party/pdks/virtual/freepdk45)
+  * Predictive 45nm PDK
+* [probe3.0](https://github.com/ABKGroup/PROBE3.0)
+  * Process/design DTCO path finding technology
+
 
 # Compilers
 
@@ -123,6 +132,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Dataflow Hardware Description Language
 * [fault](https://github.com/AUCOHL/Fault)
   * Design-for-testing (DFT) Solution
+* [finn](https://github.com/Xilinx/finn)
+  * Dataflow compiler for QNN inference
 * [firrtl](https://github.com/chipsalliance/firrtl)
   * Intermediate Representation for RTL
 * [gamma](https://github.com/maestro-project/gamma)
@@ -267,8 +278,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Complete RTL2GDS platform
 * [phidl](https://github.com/amccaugh/phidl)
   * Python GDS layout and CAD geometry creation
-* [probe3.0](https://github.com/ABKGroup/PROBE3.0)
-  * Process/design DTCO path finding technology
 
 # Design and Verification Tools
 
@@ -399,6 +408,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Generic compiler front-end for Accellera's SystemRDL 2.0 register description language
 
 ## Schematics
+* [d3-hwschematics](https://github.com/Nic30/d3-hwschematic)
+  * Schematic visualizer
 * [kaktus2dev](https://github.com/kactus2/kactus2dev)
   * Graphical EDA tool based on the IP-XACT standard
 * [openplc_editor](https://github.com/thiagoralves/OpenPLC_Editor)
@@ -507,6 +518,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemVerilog UVM written in Python
 * [pyvsc](https://github.com/fvutils/pyvsc)
   * Python packages or SystemVerilog UVM style Verification Stimulus and Coverage
+* [raft](https://github.com/Xilinx/RAFT)
+  * Rapid Abstraction FPGA Toolbox
 * [rohd-cosim](https://github.com/intel/rohd-cosim)
   * Framework for cosimulation between the ROHD simulator and SystemVerilog simulators.
 * [rohd-vf](https://github.com/intel/rohd-vf)
@@ -535,10 +548,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * D3.js based wave (signal) visualizer
 * [gtkwave](https://github.com/gtkwave/gtkwave)
   * GTK+ based VCD waveform viewer
+* [iio-oscilloscope](https://github.com/analogdevicesinc/iio-oscilloscope)
+  * GTK+ based oscilloscope application for interfacing with various IIO devices
 * [konata](https://github.com/shioyadan/Konata)
   * Instruction pipeline visualizer for Gem5
-* [ParaView](https://github.com/Kitware/ParaView)
-  * Data analysis and visualization toolkit
+* [scopy](https://github.com/analogdevicesinc/scopy)
+  * Software oscilloscope and signal analysis toolset
 * [sigrok](https://github.com/sigrokproject)
   * Portable, signal analysis software suite (logic analyzers, scopes, multimeters, and more)
 * [simview](https://github.com/pieter3d/simview)
@@ -681,6 +696,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Verilog PCI express components
 * [verilog-wishbone](https://github.com/alexforencich/verilog-wishbone)
   * Verilog wishbone components
+* [vis4mesh](https://github.com/ueqri/vis4mesh)
+  * Visualization tool for designing mesh Network-on-Chips
 * [wav-d2d-hw](https://github.com/waviousllc/wav-d2d-hw)
   * 8lane Wlink with D2D and a single AXI Target/Initiator
 * [wav-lpddr-hw](https://github.com/waviousllc/wav-lpddr-hw)
@@ -826,14 +843,24 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [x-heep](https://github.com/esl-epfl/x-heep)
   * Extendable and configurable RISC-V SoC
 
+# Education
+
+## Analog Design
+
+## ASIC Design
+
+## Board Design
+
+## Digital Design
+
+## FPGA Design
+
 ----
 
 # Other Awesome Lists
 
 * [ben-marshall](https://github.com/ben-marshall/awesome-open-hardware-verification)
   * Hardware verification
-* [clin99](https://github.com/clin99/awesome-eda)
-  * EDA projects
 * [computer-engineering-resources](https://github.com/rajesh-s/computer-engineering-resources)
   * A curated list of Computer Engineering/Architecture resources
 * [delftopenhardware](https://github.com/delftopenhardware/awesome-open-hardware)

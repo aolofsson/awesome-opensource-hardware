@@ -462,6 +462,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Generic and open source machine emulator
 * [simulide](https://github.com/SimulIDE/SimulIDE)
   * SimulIDE is a simple real-time electronic circuit simulator
+* [tiny-five](https://github.com/OpenMachine-ai/tinyfive)
+  * Lightweight RISC-V emulator and assembler written entirely in Python with examples for AI/ML
 * [xyce](https://github.com/Xyce/Xyce)
   * Parallel spice simulator from Sandia national labs
 * [verilator](https://github.com/verilator/verilator)

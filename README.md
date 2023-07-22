@@ -736,6 +736,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Cornell modular RV64IM Out-of-Order Processor Built with PyMTL
 * [microwatt](https://github.com/antonblanchard/microwatt)
   * Open POWER ISA softcore written in VHDL 2008
+* [minimax](https://github.com/gsmecher/minimax)
+  * A Compressed-First, Microcoded RISC-V CPU
 * [muntjac](https://github.com/lowRISC/muntjac)
   * Simple 64-bit RISC-V multicore processor
 * [neorv32](https://github.com/stnolting/neorv32)

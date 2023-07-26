@@ -294,6 +294,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Combinational Benchmark Suite for logic synthesis
 * [fpga-tool-perf](https://github.com/chipsalliance/fpga-tool-perf)
   * FPGA tool performance profiling
+* [HuggingFive:raised_hand_with_fingers_splayed:](https://github.com/OpenMachine-ai/HuggingFive)
+  * Benchmark and collection of AI/ML libraries written in RISC-V assembly
 * [opdb](https://github.com/PrincetonUniversity/OPDB)
   * Princeton design benchmark generators
 * [rdf-2020](https://github.com/ieee-ceda-datc/RDF-2020)

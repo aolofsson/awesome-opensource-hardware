@@ -486,6 +486,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * CVC: Circuit Validity Checker
 * [core-v-verif](https://github.com/openhwgroup/core-v-verif)
   * Functional verification project for the CORE-V family of RISC-V cores
+* [easier-uvm](https://www.doulos.com/knowhow/systemverilog/uvm/easier-uvm)
+  * UVM code generator and coding guidelines
 * [force-riscv](https://github.com/openhwgroup/force-riscv)
   * Open HW Group RISC-V instruction set generator
 * [fault](https://github.com/leonardt/fault)

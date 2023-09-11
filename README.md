@@ -192,6 +192,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python design toolkit for Verilog HDL
 * [rohd](https://github.com/intel/rohd)
   * Dart based framework for describing and verifying hardware
+* [scip](https://github.com/scipopt/scip)
+  * Solving Constraint Integer Problems
 * [silice](https://github.com/sylefeb/Silice)
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
 * [skidl](https://github.com/devbisme/skidl)
@@ -214,6 +216,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemC system design and verification language that spans hardware and software
 * [systemc-compiler](https://github.com/intel/systemc-compiler)
   * Translates synthesizable SystemC to synthesizable Verilog
+* [systemverilog-plugin](https://github.com/chipsalliance/systemverilog-plugin)
+  * SystemVerilog support for Yosys
 * [tapasco](https://github.com/esa-tu-darmstadt/tapasco)
   * Heterogeneous system composer
 * [tce](https://github.com/cpc/tce)
@@ -264,6 +268,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * C++/Python library for creation and manipulation of GDSII and OASIS files.
 * [gdspy](https://github.com/heitzmann/gdspy)
   * Python module for creating GDSII stream files, usually CAD layouts.
+* [ieda](https://github.com/OSCC-Project/iEDA)
+  * RTL2GDS infrastructure
 * [klayout](https://github.com/KLayout/klayout)
   * Layout viewer
 * [lclayout](https://codeberg.org/librecell/lclayout)
@@ -338,6 +344,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Diagrams for memory map layouts
 * [netlistsvg](https://github.com/nturley/netlistsvg)
   * draws an SVG schematic from a JSON netlist
+* [nn-svg](https://github.com/alexlenail/NN-SVG)
+  * Publication-ready NN-architecture schematics
 * [pcbdraw](https://github.com/yaqwsx/PcbDraw)
   * Convert KiCAD board into 2D drawing suitable for pinout diagrams
 * [pinion](https://github.com/yaqwsx/Pinion)
@@ -458,6 +466,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Thermal simulator
 * [qemu](https://github.com/qemu/qemu)
   * Generic and open source machine & userspace emulator and virtualizer
+* [ramulator2](https://github.com/CMU-SAFARI/ramulator2)
+  * Cycle accurate DRAM simulator
 * [renode](https://github.com/renode/renode)
   * Generic and open source machine emulator
 * [simulide](https://github.com/SimulIDE/SimulIDE)
@@ -642,6 +652,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Open-Source Hardware Accelerator Packages and Sockets
 
 ## Boards
+* [bsg_motherboards](https://github.com/bespoke-silicon-group/bsg_motherboards)
+  * BaseJump Hardware Accelerator Motherboards
 * [parallella-hw](https://github.com/parallella/parallella-hw)
   * Parallella board design files
 
@@ -654,6 +666,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * AXI SystemVerilog synthesizable IP
 * [axi4_aib_bridge](https://github.com/lmco/axi4_aib_bridge)
   * AXI4/AIB Bridge RTL
+* [bsg_ddr3_io](https://github.com/bespoke-silicon-group/bsg_ddr3_io)
+  * BaseJump DDR3 I/O Design
 * [core_ddr3_controller](https://github.com/ultraembedded/core_ddr3_controller)
   * DDR3 memory controller in Verilog for various FPGAs
 * [ctucanfd_ip_core](https://gitlab.fel.cvut.cz/canbus/ctucanfd_ip_core)
@@ -728,8 +742,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Linux capable RISC-V CPU
 * [cve2](https://github.com/openhwgroup/cve2)
   * Small two-stage 32 bit RISC-V CPU core (RV32IMC/EMC)
+* [cv32e40s](https://github.com/openhwgroup/cv32e40s)
+  * RV32IMFCX RISC-V 4-stage secure RISC-V CPU
 * [cv32e40x](https://github.com/openhwgroup/cv32e40x)
-  * RV32IMFCX RISC-V 4-stage RISC-V CPU
+  * RV32IMFCX RISC-V 4-stage compute RISC-V CPU
 * [cvw](https://github.com/openhwgroup/cvw)
   * Configurable RISC-V Processor for RISC-V System-on-Chip Design textbook.
 * [ibex](https://github.com/lowRISC/ibex)
@@ -838,6 +854,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Multicore RISC-V based SoC
 * [pulpissimo](https://github.com/pulp-platform/pulpissimo)
   * Single core RISC-V based SoC
+* [rose](https://github.com/ucb-bar/RoSE)
+  * Unified simulation platform for robotic systems
 * [senseq](https://github.com/EMIL-YORKU/SensSeq)
   * Mixed-signal system on chip for nanopore-based DNA sequencing
 * [verilogboy](https://github.com/zephray/VerilogBoy)

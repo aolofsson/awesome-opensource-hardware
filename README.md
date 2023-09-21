@@ -102,6 +102,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [mflowgen](https://github.com/mflowgen/mflowgen)
   * Build-system generator for ASIC and FPGA design-space exploration.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
+  * Modular distributed build system for hardware
 
 ## Circuit Compilers
 * [abc](https://github.com/berkeley-abc/abc)
@@ -140,6 +141,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Optimizes mapping of DNN models on DNN Accelerators
 * [gamora](https://github.com/Yu-Utah/Gamora)
   * Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks
+* [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)
+  * VHDL synthesis (based on ghdl)
 * [halide](https://github.com/halide/Halide)
   * Language for fast, portable data-parallel computation
 * [halide-to-hardware](https://github.com/StanfordAHA/Halide-to-Hardware)

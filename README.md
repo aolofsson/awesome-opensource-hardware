@@ -331,24 +331,34 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python based Printed Circuit Board (PCB) layout and design package based on CuFlow
 
 ## Digital Design
+* [digital](https://github.com/hneemann/Digital)
+  * Digital logic designer and circuit simulator
 * [verilog-mode](https://www.veripool.org/verilog-mode/)
   * Popular free Verilog mode for Emacs
+* [vsrtl](https://github.com/mortbopet/VSRTL/)
+  * Visual Simulation of Register Transfer Logic
 * [vscode-systemverilog](https://github.com/eirikpre/VSCode-SystemVerilog)
   * SystemVerilog support in VS Code
 * [vscode-teroshdl](https://github.com/TerosTechnology/vscode-terosHDL)
   * Full IDE for RTL development in VS Code
 
 ## Documentation
+* [elk](https://github.com/eclipse/elk)
+  * Eclipse Layout Kernel - Automatic layout for Java applications.
 * [graphviz](https://github.com/xflr6/graphviz)
   * Python library for graph cration and rendering in DOT language
 * [gds3d](https://github.com/trilomix/GDS3D)
   * Reads GDSII layout and renders in 3D
+* [hdelk](https://github.com/davidthings/hdelk)
+  * Web-based HDL diagramming tool
 * [kythe](https://github.com/chipsalliance/verible/blob/master/verilog/tools/kythe)
   * Verible based SystemVerilog source file indexer
 * [memory-layout-diagram](https://github.com/gerph/memory-layout-diagram)
   * Diagrams for memory map layouts
 * [netlistsvg](https://github.com/nturley/netlistsvg)
-  * draws an SVG schematic from a JSON netlist
+  * Draws an SVG schematic from a JSON netlist
+* [netlist-viewer](https://github.com/f18m/netlist-viewer)
+  * SPICE netlist visualizer
 * [nn-svg](https://github.com/alexlenail/NN-SVG)
   * Publication-ready NN-architecture schematics
 * [pcbdraw](https://github.com/yaqwsx/PcbDraw)
@@ -595,6 +605,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Command-line tool for displaying vcd waveforms
 * [verilog-vcd-parser](https://github.com/ben-marshall/verilog-vcd-parser)
   * Parser for Value Change Dump (VCD) files
+* [wavebin](https://github.com/sam210723/wavebin)
+  * Oscilloscope waveform capture viewer and converter
+* [waveforms-live](https://github.com/Digilent/waveforms-live)
+  * Browser based analog waveform viewer
 
 # Designs & Generators
 
@@ -745,6 +759,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Verilog wishbone components
 * [vis4mesh](https://github.com/ueqri/vis4mesh)
   * Visualization tool for designing mesh Network-on-Chips
+* [vivado-library](https://github.com/Digilent/vivado-library)
+  * IP cores and interface definitions compatible with Xilinx Vivado IP Catalog
 * [wav-d2d-hw](https://github.com/waviousllc/wav-d2d-hw)
   * 8lane Wlink with D2D and a single AXI Target/Initiator
 * [wav-lpddr-hw](https://github.com/waviousllc/wav-lpddr-hw)

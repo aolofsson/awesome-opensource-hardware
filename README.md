@@ -595,6 +595,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * GTK+ based oscilloscope application for interfacing with various IIO devices
 * [konata](https://github.com/shioyadan/Konata)
   * Instruction pipeline visualizer for Gem5
+* [npTDMS](https://github.com/adamreeve/npTDMS)
+  * Python module for reading TDMS files produced by LabView
 * [scopy](https://github.com/analogdevicesinc/scopy)
   * Software oscilloscope and signal analysis toolset
 * [sigrok](https://github.com/sigrokproject)

@@ -147,6 +147,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Language for fast, portable data-parallel computation
 * [halide-to-hardware](https://github.com/StanfordAHA/Halide-to-Hardware)
   * Hardware generator combining halide and coreir
+* [hastlayer](https://github.com/Lombiq/Hastlayer-SDK)
+  * VHDL generator from .NET languages (C#, F#, and others) and FPGA framework for .NET hardware acceleration
 * [hdl21](https://github.com/dan-fritchman/Hdl21)
   * Hardware Description Library
 * [hdlconvertor](https://github.com/Nic30/hdlConvertor)

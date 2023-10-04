@@ -515,6 +515,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * AXI interface modules for Cocotb
 * [cocotbext-pcie](https://github.com/alexforencich/cocotbext-pcie)
   * PCI express simulation framework for Cocotb
+* [constrainedrandom](https://github.com/imaginationtech/constrainedrandom)
+  * Python package for creating and solving constrained randomization problems
 * [cvc](https://github.com/d-m-bailey/cvc)
   * CVC: Circuit Validity Checker
 * [core-v-verif](https://github.com/openhwgroup/core-v-verif)
@@ -655,6 +657,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * 802.11 OFDM PHY decoder
 * [openspike](https://github.com/sfmth/OpenSpike)
   * Spiking neural network accelerator
+* [project-zipline](https://github.com/opencomputeproject/Project-Zipline)
+  * Zipline lossless compression implementation
 * [pyfda](https://github.com/chipmuenk/pyFDA)
   * Python Filter Design Analysis Tool
 * [sha3](https://github.com/ucb-bar/sha3)

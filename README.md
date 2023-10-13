@@ -928,6 +928,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 * [book-on-mos-stagse](https://github.com/bmurmann/Book-on-MOS-stages)
   * Analysis and Design of Elementary MOS Amplifier Stages
+* [SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
+  * SiliWiz is a browser based interactive tool that lets you draw shapes in silicon and simulate the results. The tutorial guides you from MOSFETs to a CMOS inverter.
 
 ## Board Design
 
@@ -940,6 +942,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## FPGA Design
 
+## ASIC shuttle service
+
+* [TinyTapeout](https://tinytapeout.com)
+  * TinyTapeout makes it easy and affordable put your digital design onto an ASIC.
+  
 ----
 
 # Other Awesome Lists

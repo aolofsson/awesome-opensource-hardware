@@ -663,6 +663,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Zipline lossless compression implementation
 * [pyfda](https://github.com/chipmuenk/pyFDA)
   * Python Filter Design Analysis Tool
+* [sha256](https://github.com/secworks/sha256)
+  * SHA-256 hash function (NIST FIPS 180-4)
+* [sha512](https://github.com/secworks/sha512)
+  * SHA-512 hash function (NIST FIPS 180-4)
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
 * [serpens](https://github.com/linghaosong/Serpens)

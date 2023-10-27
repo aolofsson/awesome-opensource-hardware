@@ -147,6 +147,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Language for fast, portable data-parallel computation
 * [halide-to-hardware](https://github.com/StanfordAHA/Halide-to-Hardware)
   * Hardware generator combining halide and coreir
+* [hastlayer](https://github.com/Lombiq/Hastlayer-SDK)
+  * VHDL generator from .NET languages (C#, F#, and others) and FPGA framework for .NET hardware acceleration
 * [hdl21](https://github.com/dan-fritchman/Hdl21)
   * Hardware Description Library
 * [hdlconvertor](https://github.com/Nic30/hdlConvertor)
@@ -515,6 +517,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * AXI interface modules for Cocotb
 * [cocotbext-pcie](https://github.com/alexforencich/cocotbext-pcie)
   * PCI express simulation framework for Cocotb
+* [constrainedrandom](https://github.com/imaginationtech/constrainedrandom)
+  * Python package for creating and solving constrained randomization problems
 * [cvc](https://github.com/d-m-bailey/cvc)
   * CVC: Circuit Validity Checker
 * [core-v-verif](https://github.com/openhwgroup/core-v-verif)
@@ -595,6 +599,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * GTK+ based oscilloscope application for interfacing with various IIO devices
 * [konata](https://github.com/shioyadan/Konata)
   * Instruction pipeline visualizer for Gem5
+* [npTDMS](https://github.com/adamreeve/npTDMS)
+  * Python module for reading TDMS files produced by LabView
 * [scopy](https://github.com/analogdevicesinc/scopy)
   * Software oscilloscope and signal analysis toolset
 * [sigrok](https://github.com/sigrokproject)
@@ -653,8 +659,14 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * 802.11 OFDM PHY decoder
 * [openspike](https://github.com/sfmth/OpenSpike)
   * Spiking neural network accelerator
+* [project-zipline](https://github.com/opencomputeproject/Project-Zipline)
+  * Zipline lossless compression implementation
 * [pyfda](https://github.com/chipmuenk/pyFDA)
   * Python Filter Design Analysis Tool
+* [sha256](https://github.com/secworks/sha256)
+  * SHA-256 hash function (NIST FIPS 180-4)
+* [sha512](https://github.com/secworks/sha512)
+  * SHA-512 hash function (NIST FIPS 180-4)
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
 * [serpens](https://github.com/linghaosong/Serpens)
@@ -922,6 +934,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 * [book-on-mos-stagse](https://github.com/bmurmann/Book-on-MOS-stages)
   * Analysis and Design of Elementary MOS Amplifier Stages
+* [SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
+  * SiliWiz is a browser based interactive tool that lets you draw shapes in silicon and simulate the results. The tutorial guides you from MOSFETs to a CMOS inverter.
 
 ## Board Design
 
@@ -934,6 +948,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## FPGA Design
 
+## ASIC shuttle service
+
+* [TinyTapeout](https://tinytapeout.com)
+  * TinyTapeout makes it easy and affordable put your digital design onto an ASIC.
+  
 ----
 
 # Other Awesome Lists

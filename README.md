@@ -335,6 +335,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Digital Design
 * [digital](https://github.com/hneemann/Digital)
   * Digital logic designer and circuit simulator
+* [DigSim](https://github.com/freand76/digsim)
+  * An interactive digital logic simulator with verilog support (Yosys)
 * [verilog-mode](https://www.veripool.org/verilog-mode/)
   * Popular free Verilog mode for Emacs
 * [vsrtl](https://github.com/mortbopet/VSRTL/)

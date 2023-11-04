@@ -147,6 +147,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Language for fast, portable data-parallel computation
 * [halide-to-hardware](https://github.com/StanfordAHA/Halide-to-Hardware)
   * Hardware generator combining halide and coreir
+* [hastlayer](https://github.com/Lombiq/Hastlayer-SDK)
+  * VHDL generator from .NET languages (C#, F#, and others) and FPGA framework for .NET hardware acceleration
 * [hdl21](https://github.com/dan-fritchman/Hdl21)
   * Hardware Description Library
 * [hdlconvertor](https://github.com/Nic30/hdlConvertor)
@@ -333,6 +335,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Digital Design
 * [digital](https://github.com/hneemann/Digital)
   * Digital logic designer and circuit simulator
+* [DigSim](https://github.com/freand76/digsim)
+  * An interactive digital logic simulator with verilog support (Yosys)
 * [verilog-mode](https://www.veripool.org/verilog-mode/)
   * Popular free Verilog mode for Emacs
 * [vsrtl](https://github.com/mortbopet/VSRTL/)
@@ -661,6 +665,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Zipline lossless compression implementation
 * [pyfda](https://github.com/chipmuenk/pyFDA)
   * Python Filter Design Analysis Tool
+* [sha256](https://github.com/secworks/sha256)
+  * SHA-256 hash function (NIST FIPS 180-4)
+* [sha512](https://github.com/secworks/sha512)
+  * SHA-512 hash function (NIST FIPS 180-4)
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
 * [serpens](https://github.com/linghaosong/Serpens)
@@ -928,6 +936,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 * [book-on-mos-stagse](https://github.com/bmurmann/Book-on-MOS-stages)
   * Analysis and Design of Elementary MOS Amplifier Stages
+* [SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
+  * SiliWiz is a browser based interactive tool that lets you draw shapes in silicon and simulate the results. The tutorial guides you from MOSFETs to a CMOS inverter.
 
 ## Board Design
 
@@ -944,6 +954,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## FPGA Design
 
+## ASIC shuttle service
+
+* [TinyTapeout](https://tinytapeout.com)
+  * TinyTapeout makes it easy and affordable put your digital design onto an ASIC.
+  
 ----
 
 # Other Awesome Lists

@@ -937,6 +937,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * ECE 4750 Computer Architecture
 * [cornell-ece5745](https://github.com/cornell-ece5745)
   * ECE 5745 Complex Digital ASIC Design
+* [stanford-ee272a](https://priyanka-raina.github.io/ee272a-winter2021)
+  * EE272A Design Projects in VLSI Systems I
+* [stanford-ee272b](https://priyanka-raina.github.io/ee272b-spring2021)
+  * EE272B Design Projects in VLSI Systems II
 
 ## FPGA Design
 

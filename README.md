@@ -569,6 +569,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Framework for cosimulation between the ROHD simulator and SystemVerilog simulators.
 * [rohd-vf](https://github.com/intel/rohd-vf)
   * ROHD-based verification and testbench framework in Dart.
+* [switchboard](https://github.com/zeroasiccorp/switchboard/)
+  * Communication framework for RTL simulation and emulation
 * [svreal](https://github.com/sgherbst/svreal)
   * Synthesizable real number library in SystemVerilog (fixed & floating point formats)
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)
@@ -757,6 +759,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Minimal USB CDC (ACM) implementation in verilog
 * [usb_dfu](https://github.com/ulixxe/usb_dfu/tree/main)
   * Verilog implementation of the USB Device Class Specification for Device Firmware Upgrade (DFU), version 1.1
+* [umi](https://github.com/zeroasiccorp/umi)
+  * Universal Memory Interface
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
   * Verilog AXI stream components for FPGA implementation
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
@@ -859,6 +863,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Parametric floating-point unit
 * [hdl](https://github.com/analogdevicesinc/hdl)
   * Library of Analog Deveices specific components
+* [lambdalib](https://github.com/siliconcompiler/lambdalib)
+  * Hardware abstraction library
+* [lambdapdk](https://github.com/siliconcompiler/lambdapdk)
+  * Library of open source Process Design Kits (PDKs)
 * [libsv](https://github.com/bensampson5/libsv)
   * Parameterized SystemVerilog digital hardware library
 * [mathlib](https://github.com/asfigo/mathlib)
@@ -952,7 +960,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 * [TinyTapeout](https://tinytapeout.com)
   * TinyTapeout makes it easy and affordable put your digital design onto an ASIC.
-  
+
 ----
 
 # Other Awesome Lists

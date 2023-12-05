@@ -337,6 +337,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Digital Design
 * [digital](https://github.com/hneemann/Digital)
   * Digital logic designer and circuit simulator
+* [DigSim](https://github.com/freand76/digsim)
+  * An interactive digital logic simulator with verilog support (Yosys)
 * [verilog-mode](https://www.veripool.org/verilog-mode/)
   * Popular free Verilog mode for Emacs
 * [vsrtl](https://github.com/mortbopet/VSRTL/)
@@ -955,6 +957,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * ECE 4750 Computer Architecture
 * [cornell-ece5745](https://github.com/cornell-ece5745)
   * ECE 5745 Complex Digital ASIC Design
+* [stanford-ee272a](https://priyanka-raina.github.io/ee272a-winter2021)
+  * EE272A Design Projects in VLSI Systems I
+* [stanford-ee272b](https://priyanka-raina.github.io/ee272b-spring2021)
+  * EE272B Design Projects in VLSI Systems II
 
 ## FPGA Design
 

@@ -109,6 +109,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * System for sequential logic synthesis and formal verification
 * [act](https://github.com/asyncvlsi/act)
   * Asynchronous circuit compiler tools
+* [aihwkit](https://github.com/IBM/aihwkit)
+  * IBM Analog Hardware Acceleration Kit
 * [amaranth](https://github.com/amaranth-lang/amaranth)
   * Python based hardware design framework
 * [bigspicy](https://github.com/google/bigspicy)

@@ -755,6 +755,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Small footprint and configurable PCIe core
 * [nocrouter](https://github.com/agalimberti/NoCRouter)
   * Network-on-Chip Router
+* [omi_device_ice](https://github.eom/OpenCAPI/omi_device_ice)
+  * Open memory interface example device
+* [opencapi_accel](https://github.com/OpenCAPI/oc-accel)
+  * OpenCAPI acceleration framework
+* [opencapi_client](https://github.com/OpenCAPI/OpenCAPI3.0_Client_RefDesign)
+  * OpenCAPI client reference design
 * [openserdes](https://github.com/SparcLab/OpenSERDES)
   * Digitally synthesizable architecture for SerDes using Skywater130
 * [pymtl3-net](https://github.com/cornell-brg/pymtl3-net)

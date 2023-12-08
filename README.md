@@ -453,6 +453,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Integrated circuit simulator with Graphical User Interface
 * [hdl21schematics](https://github.com/Vlsir/Hdl21Schematics)
   * Hdl21 Schematics
+* [schematic-generation-examples](https://github.com/sifferman/schematics)
+  * Examples of generating schematics from SystemVerilog with open-source and commercial synthesis tools.
 * [xschem](https://github.com/StefanSchippers/xschem)
   * Schematic editor for VLSI/Asic/Analog custom designs
 

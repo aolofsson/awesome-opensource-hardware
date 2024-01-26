@@ -34,6 +34,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Schematics](#scehamtics)
   * [Simulators](#simulators)
   * [Verification frameworks](#verification-frameworks)
+  * [Physics](#physics)
   * [Waveform Viewers](#waveform-viewers)
 
 ## Designs & Generators
@@ -52,7 +53,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * [Analog design](#analog-design)
   * [ASIC design](#asic-design)
   * [Digital design](#digital-design)
-  * [FPGA Education](#fpga-design)
+  * [FPGA design](#fpga-design)
 
 # PDKs
 
@@ -72,7 +73,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Predictive 45nm PDK
 * [probe3.0](https://github.com/ABKGroup/PROBE3.0)
   * Process/design DTCO path finding technology
-
 
 # Compilers
 
@@ -271,6 +271,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Deep learning toolkit-enabled VLSI placement
 * [gdsfactory](https://github.com/gdsfactory/gdsfactory)
   * Platform for chip design and layout
+* [gds3d](https://github.com/trilomix/GDS3D)
+  * Render GDS files in 3D
+* [gdsiistl](https://github.com/dteal/gdsiistl)
+  * Converts GDSII files to STL files
 * [gdstk](https://github.com/heitzmann/gdstk)
   * C++/Python library for creation and manipulation of GDSII and OASIS files.
 * [gdspy](https://github.com/heitzmann/gdspy)
@@ -279,6 +283,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * RTL2GDS infrastructure
 * [klayout](https://github.com/KLayout/klayout)
   * Layout viewer
+* [kweb](https://github.com/gdsfactory/kweb)
+  * Klayout Web Viewer
 * [lclayout](https://codeberg.org/librecell/lclayout)
   * Layout generator for CMOS standard-cells
 * [layout21](https://github.com/dan-fritchman/Layout21)
@@ -291,6 +297,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Complete RTL2GDS platform
 * [phidl](https://github.com/amccaugh/phidl)
   * Python GDS layout and CAD geometry creation
+
 
 # Design and Verification Tools
 
@@ -325,6 +332,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Utility that scrubs PDF datasheets/documents in order to extract key circuit information
 * [freecad](https://github.com/FreeCAD/FreeCAD)
   * 3D parametric CAD for building models of components for KiCad 3D preview (also enclosures)
+* [freerouting](https://github.com/freerouting/freerouting)
+  * PCB auto-router
 * [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
 * [kicanvas](https://github.com/theacodes/kicanvas)
@@ -456,19 +465,15 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [xschem](https://github.com/StefanSchippers/xschem)
   * Schematic editor for VLSI/Asic/Analog custom designs
 
-## Simulators
+## Electronics Simulators
 * [champsim](https://github.com/ChampSim/ChampSim)
   * Trace-based simulator for a microarchitecture study
-* [devsim](https://github.com/devsim)
-  * TCAD Semiconductor Device Simulator
 * [dromajo](https://github.com/chipsalliance/dromajo)
   * RISC-V RV64GC functional emulator
 * [eesim](https://github.com/danchitnis/EEsim)
   * Browser-based SPICE circuit simulator
 * [essent](https://github.com/ucsc-vama/essent)
   * High-performance FIRRTL (Chisel) simulator
-* [femwell](https://github.com/HelgeGehring/femwell)
-  * Finite element based simulation tool for integrated circuits, electric and photonic!
 * [firesim](https://github.com/firesim/firesim)
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [gem5](https://github.com/gem5/gem5)
@@ -477,8 +482,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Cycle-level simulator for PPA and cost analysis of distributed multi-chiplet tile-based manycore designs.
 * [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator
-* [hotspot](https://github.com/uvahotspot/HotSpot)
-  * Thermal modeling tool for use in architectural studies
 * [icarus](https://github.com/steveicarus/iverilog.git)
   * Verilog IEEE-1364 simulator
 * [irsim](https://github.com/RTimothyEdwards/irsim)
@@ -493,8 +496,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Spice simulator
 * [nvc](https://github.com/nickg/nvc)
   * VHDL compiler and simulator
-* [pact](https://github.com/peaclab/PACT)
-  * Thermal simulator
 * [pysysc](https://github.com/accellera-official/PySysC)
   * Python package to make SystemC usable from Python
 * [qemu](https://github.com/qemu/qemu)
@@ -509,6 +510,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemC simulation productivity library
 * [tiny-five](https://github.com/OpenMachine-ai/tinyfive)
   * Lightweight RISC-V emulator and assembler written entirely in Python with examples for AI/ML
+* [xictools](https://github.com/wrcad/xictools)
+  * Circuit simulation package
 * [xyce](https://github.com/Xyce/Xyce)
   * Parallel spice simulator from Sandia national labs
 * [verilator](https://github.com/verilator/verilator)
@@ -563,6 +566,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Next generation Verilog-A compiler
 * [osvvm](https://github.com/OSVVM/OsvvmLibraries)
   * A VHDL verification framework
+* [pcievhost](https://github.com/wyvernSemi/pcievhost)
+  * PCIe (1.0a to 2.0) Virtual host model for verilog
 * [pyspice](https://github.com/PySpice-org/PySpice)
   * Python interface for ngspice and xyce
 * [pyucis](https://github.com/fvutils/pyucis)
@@ -599,6 +604,24 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Virtual development board
 * [vunit](https://github.com/VUnit/vunit)
   * Unit testing framework for VHDL/SystemVerilog
+
+## Physics
+* [devsim](https://github.com/devsim)
+  * TCAD Semiconductor Device Simulator
+* [elmer](https://github.com/ElmerCSC/elmerfem)
+  * Finite Element Solver
+* [femwell](https://github.com/HelgeGehring/femwell)
+  * Finite element based simulation tool for integrated circuits, electric and photonic
+* [hotspot](https://github.com/uvahotspot/HotSpot)
+  * Thermal modeling tool for use in architectural studies
+* [meep](https://github.com/NanoComp/meep)
+  * Finite-difference-time-domain (FDTD) electromagneic simulation
+* [paraview](https://github.com/Kitware/ParaView)
+  * Data Analysis and Visualization Application
+* [pact](https://github.com/peaclab/PACT)
+  * Thermal simulator
+* [sax](https://github.com/flaport/sax)
+  * S-parameter based frequency domain circuit simulation
 
 ## Waveform Viewers
 * [scviewer](https://github.com/Minres/SCViewer)

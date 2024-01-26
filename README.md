@@ -407,6 +407,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SMT automatic theorem prover
 * [ilang](https://github.com/PrincetonUniversity/ILAng)
   * Princeton modeling and Verification Platform for SoCs using ILAs
+* [autosva](https://github.com/PrincetonUniversity/AutoSVA)
+  * Generates FV testbenches and SVA properties for RTL modules based on interface annotations + GPT4
+* [autocc](https://github.com/morenes/AutoCC)
+  * A frontend for JG/SBY to automatically discover covert channels in time-shared hardware
 * [pono](https://github.com/upscale-project/pono)
   * Extensible SMT-based model checker implemented in C++.
 * [sby](https://github.com/YosysHQ/sby)
@@ -469,6 +473,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
+* [muchisim](https://github.com/PrincetonUniversity/muchisim)
+  * Cycle-level simulator for PPA and cost analysis of distributed multi-chiplet tile-based manycore designs.
 * [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator
 * [hotspot](https://github.com/uvahotspot/HotSpot)
@@ -749,6 +755,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Small footprint and configurable PCIe core
 * [nocrouter](https://github.com/agalimberti/NoCRouter)
   * Network-on-Chip Router
+* [omi_device_ice](https://github.eom/OpenCAPI/omi_device_ice)
+  * Open memory interface example device
+* [opencapi_accel](https://github.com/OpenCAPI/oc-accel)
+  * OpenCAPI acceleration framework
+* [opencapi_client](https://github.com/OpenCAPI/OpenCAPI3.0_Client_RefDesign)
+  * OpenCAPI client reference design
 * [openserdes](https://github.com/SparcLab/OpenSERDES)
   * Digitally synthesizable architecture for SerDes using Skywater130
 * [pymtl3-net](https://github.com/cornell-brg/pymtl3-net)

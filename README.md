@@ -1018,6 +1018,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * HDL languages
 * [hdl](https://github.com/hdl/awesome)
   * Hardware description resources
+* [kicad-3rd-party-tools](https://github.com/devbisme/kicad-3rd-party-tools)
+  * List of 3rd party KiCad software packages
 * [mattvenn](https://github.com/mattvenn/awesome-opensource-asic-resources)
   * ASIC resources
 * [pkuzjx](https://github.com/pkuzjx/eda-collection)

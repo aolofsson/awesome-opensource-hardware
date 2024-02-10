@@ -4,7 +4,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 * Categorized
 * Alphabetical (per category)
-* AO = Recommended by Andreas Olofsson
+* AO = Used by Andreas Olofsson
 * Requirements
   - link should be to source code repository
   - open source projects only
@@ -122,7 +122,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Compiler, simulator, and tools for the Bluespec Hardware Description Language
 * [calyx](https://github.com/cucapra/calyx)
   * Intermediate language and compilers that generate custom hardware accelerators
-* [chisel](https://github.com/chipsalliance/chisel3)
+* [chisel](https://github.com/chipsalliance/chisel3) (AO) :star:
   * Scala based hardware description language
 * [circt](https://github.com/llvm/circt)
   * Circuit IR Compilers and Tools
@@ -183,7 +183,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [myhdl](https://github.com/myhdl/myhdl)
   * Python based hardware description and verification language
 * [naja](https://github.com/xtofalex/naja)
-  * Structural Netlist API (and more) for EDA post synthesis flow development
+  * Structural Netlist API for EDA post synthesis flow development
 * [netlist-paths](https://github.com/jameshanlon/netlist-paths)
   * A library and command-line tool for querying a Verilog netlist
 * [panda-bambu](https://github.com/ferrandi/PandA-bambu)
@@ -210,7 +210,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SKiDL is a module that extends Python with the ability to design electronic circuits
 * [slang](https://github.com/MikePopoloski/slang)
   * Library for lexing, parsing, type checking, and elaborating SystemVerilog code
-* [sodaopt](https://gitlab.pnnl.gov/sodalite/soda-opt) (AO) :star:
+* [sodaopt](https://github.com/pnnl/soda-opt) (AO) :star:
   * Optimizer leveraging mlir to extract, optimize, translate HLSinto LLVM IR
 * [spinalhdl](https://github.com/SpinalHDL/SpinalHDL)
   * Scala based HDL
@@ -220,9 +220,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemVerilog IEEE 2017 Pre-processor, Parser, Elaborator, UHDM Compiler
 * [sv-parser](https://github.com/dalance/sv-parser)
   * SystemVerilog IEEE 1800-2017 parser library
-* [sv2v](https://github.com/zachjs/sv2v)
+* [sv2v](https://github.com/zachjs/sv2v) (AO) :star:
   * SystemVerilog to Verilog conversion
-* [systemc](https://github.com/accellera-official/systemc)
+* [systemc](https://github.com/accellera-official/systemc) (AO) :star:
   * SystemC system design and verification language that spans hardware and software
 * [systemc-compiler](https://github.com/intel/systemc-compiler)
   * Translates synthesizable SystemC to synthesizable Verilog
@@ -646,6 +646,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Text-based SystemVerilog design browser and waveform viewer
 * [sootty](https://github.com/Ben1152000/sootty)
   * Command-line tool for displaying vcd waveforms
+* [spyci](https://github.com/gmagno/spyci)
+  * Python package to parse spice raw data files
 * [verilog-vcd-parser](https://github.com/ben-marshall/verilog-vcd-parser)
   * Parser for Value Change Dump (VCD) files
 * [wavebin](https://github.com/sam210723/wavebin)
@@ -854,7 +856,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * RV32IMFCX RISC-V 4-stage compute RISC-V CPU
 * [cvw](https://github.com/openhwgroup/cvw)
   * Configurable RISC-V Processor for RISC-V System-on-Chip Design textbook.
-* [ibex](https://github.com/lowRISC/ibex)
+* [ibex](https://github.com/lowRISC/ibex) (AO) :star:
   * Small 32 bit RISC-V CPU core
 * [lizard](https://github.com/cornell-brg/lizard)
   * Cornell modular RV64IM Out-of-Order Processor Built with PyMTL
@@ -868,7 +870,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Customizable and highly extensible MCU-class 32-bit RISC-V (VHDL)
 * [openxiangshan](https://github.com/OpenXiangShan/XiangShan)
   * Open-source high-performance RISC-V processor
-* [picorv32](https://github.com/YosysHQ/picorv32)
+* [picorv32](https://github.com/YosysHQ/picorv32) (AO) :star:
   * Size-Optimized RISC-V CPU
 * [rocket-chip](https://github.com/chipsalliance/rocket-chip) (AO) :star:
   * Linux capable RISC-V Rocket Chip Generator

@@ -669,6 +669,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Compiler for Reduced-Complexity Reconfigurable Fabrics
 * [bismp](https://github.com/EECS-NTNU/bismo/)
   * Chisel-based bit-serial matrix multiplication accelerator generator
+* [callipepla](https://github.com/linghaosong/Callipepla)
+  * Large-scale sparse Conjugate Gradient (CG) solvers on High Bandwidth Memory (HBM) FPGAs
 * [finn](https://github.com/Xilinx/finn)
   * Quantized NN to FPGA dataflow accelerator generator
 * [fftgenerator](https://github.com/ucb-bar/FFTGenerator)

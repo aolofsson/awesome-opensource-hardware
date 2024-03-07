@@ -238,6 +238,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemVerilog developer tools, including a parser, style-linter, and formatter
 * [veriloggen](https://github.com/PyHDI/veriloggen)
   * Mixed-Paradigm Hardware Construction Framework
+* [veryl](https://github.com/veryl-lang/veryl)
+  * Modern Hardware Description Language based on Rust/SV
 * [verik](https://github.com/frwang96/verik)
   * Kotlin based hardware description language
 * [vlsir](https://github.com/Vlsir/Vlsir)
@@ -923,6 +925,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemVerilog MathLib
 * [oh](https://github.com/aolofsson/oh) (R) :star:
   * Library of Verilog components
+* [pztb-core](https://github.com/pezy-computing/pztb-core)
+  * Collection of class libraries for testbench development
 * [pzbcm](https://github.com/pezy-computing/pzbcm)
   * Basic common modules
 * [rohd-hcl](https://github.com/intel/rohd-hcl)

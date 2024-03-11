@@ -990,6 +990,29 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [x-heep](https://github.com/esl-epfl/x-heep)
   * Extendable and configurable RISC-V SoC
 
+## Boards
+
+* [artix-dc-scm](https://github.com/antmicro/artix-dc-scm)
+  * Antmicro OCP data center secure control module
+* [arty-mpw-tester](https://github.com/antmicro/arty-mpw-tester)
+  * Antmicro Caravel fanout board
+* [fomu](https://github.com/im-tomu/fomu-hardware)
+  * Tiny USB FPGA board
+* [icebreaker](https://github.com/icebreaker-fpga/icebreaker)
+  * Low cost FPGA development board
+* [lpddr5-testbed](https://github.com/antmicro/lpddr5-testbed)
+  * Antmicro lpddr5 testbed
+* [NiteFury](https://github.com/RHSResearchLLC/NiteFury-and-LiteFury)
+  * M2 30mm Artix FPGA evaluation board
+* [PicoEVB](https://github.com/RHSResearchLLC/PicoEVB)
+  * M.2 80mm Artix FPGA evaluation board
+* [qomu-dev-board](https://github.com/QuickLogic-Corp/qomu-dev-board)
+  * Quicklogic efpga USB dev board
+* [scalenode-cm4-baseboard](https://github.com/antmicro/scalenode-cm4-baseboard)
+  * Antmicro basedboard for RPI CM4
+* [sodimm-ddr5-tester](https://github.com/antmicro/sodimm-ddr5-tester)
+  * Antmicro ddr5 tester board
+
 # Education
 
 ## Analog Design

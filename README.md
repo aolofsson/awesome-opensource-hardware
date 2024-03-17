@@ -1002,8 +1002,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Low cost FPGA development board
 * [lpddr5-testbed](https://github.com/antmicro/lpddr5-testbed)
   * Antmicro lpddr5 testbed
-* [NiteFury](https://github.com/RHSResearchLLC/NiteFury-and-LiteFury)
-  * M2 30mm Artix FPGA evaluation board
 * [PicoEVB](https://github.com/RHSResearchLLC/PicoEVB)
   * M.2 80mm Artix FPGA evaluation board
 * [qomu-dev-board](https://github.com/QuickLogic-Corp/qomu-dev-board)

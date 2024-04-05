@@ -90,8 +90,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Infrastructure for integrated EDA
 * [edalize](https://github.com/olofk/edalize)
   * Abstraction library for interfacing EDA tools.
-* [f4fpga](https://github.com/chipsalliance/f4pga)
-  * FPGA build system
 * [flgen](https://github.com/pezy-computing/flgen)
   * Generate a filelist for EDA tools
 * [fusesoc](https://github.com/olofk/fusesoc)
@@ -407,8 +405,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Bitstream relocation and manipulation tool
 * [icestudio](https://github.com/FPGAwars/icestudio)
   * Visual editor for open FPGA boards
+* [f4fpga](https://github.com/chipsalliance/f4pga)
+  * FPGA toolchain
 * [foedag](https://github.com/os-fpga/FOEDAG)
   * Framework Open EDA Gui
+* [logik](https://github.com/zeroasiccorp/logik)
+  * FPGA toolchain
 * [openfpgaloader](https://github.com/trabucayre/openFPGALoader) (R) :star:
   * Universal utility for programming FPGA
 * [rphax](https://github.com/shariethernet/RPHAX)

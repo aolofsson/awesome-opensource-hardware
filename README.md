@@ -9,7 +9,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   - open source projects only
   - working projects only (not WIP/rusty)
 * One tag line sentence per project
-* R = Recommended
 
 # Table of Contents
 
@@ -102,11 +101,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Command line HDL package manager and development tool.
 * [mflowgen](https://github.com/mflowgen/mflowgen)
   * Build-system generator for ASIC and FPGA design-space exploration.
-* [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler) (R) :star:
+* [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Modular distributed build system for hardware
 
 ## Circuit Compilers
-* [abc](https://github.com/berkeley-abc/abc) (R) :star:
+* [abc](https://github.com/berkeley-abc/abc)
   * System for sequential logic synthesis and formal verification
 * [act](https://github.com/asyncvlsi/act)
   * Asynchronous circuit compiler tools
@@ -120,7 +119,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Compiler, simulator, and tools for the Bluespec Hardware Description Language
 * [calyx](https://github.com/cucapra/calyx)
   * Intermediate language and compilers that generate custom hardware accelerators
-* [chisel](https://github.com/chipsalliance/chisel3) (R) :star:
+* [chisel](https://github.com/chipsalliance/chisel3)
   * Scala based hardware description language
 * [circt](https://github.com/llvm/circt)
   * Circuit IR Compilers and Tools
@@ -208,19 +207,19 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SKiDL is a module that extends Python with the ability to design electronic circuits
 * [slang](https://github.com/MikePopoloski/slang)
   * Library for lexing, parsing, type checking, and elaborating SystemVerilog code
-* [sodaopt](https://github.com/pnnl/soda-opt) (R) :star:
+* [sodaopt](https://github.com/pnnl/soda-opt)
   * Optimizer leveraging mlir to extract, optimize, translate HLSinto LLVM IR
 * [spinalhdl](https://github.com/SpinalHDL/SpinalHDL)
   * Scala based HDL
 * [spydrnet](https://github.com/byuccl/spydrnet)
   * Framework for analyzing and transforming Verilog netlists
-* [surelog](https://github.com/chipsalliance/Surelog) (R) :star:
+* [surelog](https://github.com/chipsalliance/Surelog)
   * SystemVerilog IEEE 2017 Pre-processor, Parser, Elaborator, UHDM Compiler
 * [sv-parser](https://github.com/dalance/sv-parser)
   * SystemVerilog IEEE 1800-2017 parser library
-* [sv2v](https://github.com/zachjs/sv2v) (R) :star:
+* [sv2v](https://github.com/zachjs/sv2v)
   * SystemVerilog to Verilog conversion
-* [systemc](https://github.com/accellera-official/systemc) (R) :star:
+* [systemc](https://github.com/accellera-official/systemc)
   * SystemC system design and verification language that spans hardware and software
 * [systemc-compiler](https://github.com/intel/systemc-compiler)
   * Translates synthesizable SystemC to synthesizable Verilog
@@ -244,7 +243,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Interchange formats for chip design
 * [xls](https://github.com/google/xls)
   * Google framework for hardware synthesis
-* [yosys](https://github.com/YosysHQ/yosys) (R) :star:
+* [yosys](https://github.com/YosysHQ/yosys)
   * Yosys Open SYnthesis Suite
 
 ## FPGA Compilers
@@ -257,7 +256,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * FPGA synehsis and PNR optimizer
 * [nextpnr](https://github.com/YosysHQ/nextpnr)
   * FPGA place and route tool
-* [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing) (R) :star:
+* [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
   * FPGA place and route tool
 
 ## Layout Compilers
@@ -284,7 +283,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python module for creating GDSII stream files, usually CAD layouts.
 * [ieda](https://github.com/OSCC-Project/iEDA)
   * RTL2GDS infrastructure
-* [klayout](https://github.com/KLayout/klayout) (R) :star:
+* [klayout](https://github.com/KLayout/klayout)
   * Layout viewer
 * [kweb](https://github.com/gdsfactory/kweb)
   * Klayout Web Viewer
@@ -296,7 +295,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Magic VLSI layout tool
 * [magical](https://github.com/magical-eda/MAGICAL)
   * Machine Generated Analog IC Layout
-* [openroad](https://github.com/The-OpenROAD-Project/OpenROAD) (R) :star:
+* [openroad](https://github.com/The-OpenROAD-Project/OpenROAD)
   * Complete RTL2GDS platform
 * [phidl](https://github.com/amccaugh/phidl)
   * Python GDS layout and CAD geometry creation
@@ -333,11 +332,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Experimental procedural PCB layout program
 * [datasheet-scrubber](https://github.com/idea-fasoc/datasheet-scrubber)
   * Utility that scrubs PDF datasheets/documents in order to extract key circuit information
-* [freecad](https://github.com/FreeCAD/FreeCAD) (R) :star:
+* [freecad](https://github.com/FreeCAD/FreeCAD)
   * 3D parametric CAD for building models of components for KiCad 3D preview (also enclosures)
 * [freerouting](https://github.com/freerouting/freerouting)
   * PCB auto-router
-* [kicad](https://github.com/KiCad/kicad-source-mirror) (R) :star:
+* [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
 * [kicanvas](https://github.com/theacodes/kicanvas)
   * KiCAD web viewer
@@ -395,7 +394,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * HDL symbol generator
 * [undulate](https://github.com/LudwigCRON/undulate)
   * Python compatible wavedrom module with extensions and console rendering support
-* [wavedrom](https://github.com/wavedrom/wavedrom) (R) :star:
+* [wavedrom](https://github.com/wavedrom/wavedrom)
   * Digital timing diagram rendering engine
 * [wavedrompy](https://github.com/wallento/wavedrompy)
   * Python comptabled Wavedrom module
@@ -411,7 +410,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Framework Open EDA Gui
 * [logik](https://github.com/zeroasiccorp/logik)
   * FPGA toolchain
-* [openfpgaloader](https://github.com/trabucayre/openFPGALoader) (R) :star:
+* [openfpgaloader](https://github.com/trabucayre/openFPGALoader)
   * Universal utility for programming FPGA
 * [rphax](https://github.com/shariethernet/RPHAX)
   * Automation flow to develop and prototype hardware accelerators on Xilinx FPGAs
@@ -441,7 +440,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * GitHub action for svlint
 * [verible](https://github.com/chipsalliance/verible)
   * SystemVerilog developer tools, including a parser, style-linter, and formatter
-* [verilator](https://github.com/verilator/verilator) (R) :star:
+* [verilator](https://github.com/verilator/verilator)
   * SystemVerilog simulator and lint system
 
 ## Register Design
@@ -487,19 +486,19 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Modular simulator platform for computer-system architecture research
 * [muchisim](https://github.com/PrincetonUniversity/muchisim)
   * Cycle-level simulator for PPA and cost analysis of distributed multi-chiplet tile-based manycore designs.
-* [ghdl](https://github.com/ghdl/ghdl) (R) :star:
+* [ghdl](https://github.com/ghdl/ghdl)
   * VHDL 2008/93/87 simulator
-* [icarus](https://github.com/steveicarus/iverilog.git) (R) :star:
+* [icarus](https://github.com/steveicarus/iverilog.git)
   * Verilog IEEE-1364 simulator
 * [irsim](https://github.com/RTimothyEdwards/irsim)
   * Switch-level simulator for digital circuits
-* [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc) (R) :star:
+* [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)
   * SystemC/TLM-2.0 Co-simulation framework
 * [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
   * Digital logic design tool and simulator
 * [lwtr4sc](https://github.com/Minres/LWTR4SC)
   * Transaction recording for SystemC
-* [ngspice](http://ngspice.sourceforge.net/) (R) :star:
+* [ngspice](http://ngspice.sourceforge.net/)
   * Spice simulator
 * [noxim](https://github.com/davidepatti/noxim)
   * Network on Chip Simulator
@@ -507,7 +506,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * VHDL compiler and simulator
 * [pysysc](https://github.com/accellera-official/PySysC)
   * Python package to make SystemC usable from Python
-* [qemu](https://github.com/qemu/qemu) (R) :star:
+* [qemu](https://github.com/qemu/qemu)
   * Generic and open source machine & userspace emulator and virtualizer
 * [ramulator2](https://github.com/CMU-SAFARI/ramulator2)
   * Cycle accurate DRAM simulator
@@ -523,9 +522,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Lightweight RISC-V emulator and assembler written entirely in Python with examples for AI/ML
 * [xictools](https://github.com/wrcad/xictools)
   * Circuit simulation package
-* [xyce](https://github.com/Xyce/Xyce) (R) :star:
+* [xyce](https://github.com/Xyce/Xyce)
   * Parallel spice simulator from Sandia national labs
-* [verilator](https://github.com/verilator/verilator) (R) :star:
+* [verilator](https://github.com/verilator/verilator)
   * SystemVerilog simulator and lint system
 
 ## Verification Frameworks
@@ -567,7 +566,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * LVS tool for comparing SPICE or verilog netlists
 * [openplc_v3](https://github.com/thiagoralves/OpenPLC_v3)
   * OpenPLC Runtime version 3
-* [opensta](https://github.com/The-OpenROAD-Project/OpenSTA) (R) :star:
+* [opensta](https://github.com/The-OpenROAD-Project/OpenSTA)
   * Signoff quality STA engine used by OpenRoad
 * [opentimer](https://github.com/OpenTimer/OpenTimer)
   * High performance static timing analysis
@@ -593,7 +592,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Framework for cosimulation between the ROHD simulator and SystemVerilog simulators.
 * [rohd-vf](https://github.com/intel/rohd-vf)
   * ROHD-based verification and testbench framework in Dart.
-* [switchboard](https://github.com/zeroasiccorp/switchboard/) (R) :star:
+* [switchboard](https://github.com/zeroasiccorp/switchboard/)
   * Communication framework for RTL simulation and emulation
 * [svreal](https://github.com/sgherbst/svreal)
   * Synthesizable real number library in SystemVerilog (fixed & floating point formats)
@@ -637,7 +636,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Eclipse plugins to display VCD (e.g. created by SystemC VCD trace).
 * [d3wave](https://github.com/Nic30/d3-wave)
   * D3.js based wave (signal) visualizer
-* [gtkwave](https://github.com/gtkwave/gtkwave) (R) :star:
+* [gtkwave](https://github.com/gtkwave/gtkwave)
   * GTK+ based VCD waveform viewer
 * [iio-oscilloscope](https://github.com/analogdevicesinc/iio-oscilloscope)
   * GTK+ based oscilloscope application for interfacing with various IIO devices
@@ -813,7 +812,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Minimal USB CDC (ACM) implementation in verilog
 * [usb_dfu](https://github.com/ulixxe/usb_dfu/tree/main)
   * Verilog implementation of the USB Device Class Specification for Device Firmware Upgrade (DFU), version 1.1
-* [umi](https://github.com/zeroasiccorp/umi) (R) :star:
+* [umi](https://github.com/zeroasiccorp/umi)
   * Universal Memory Interface
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
   * Verilog AXI stream components for FPGA implementation
@@ -855,7 +854,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SweRV EL2 RISC-V Core
 * [core-v-verif](https://github.com/openhwgroup/core-v-verif)
   * Functional verification project for the CORE-V family of RISC-V cores
-* [cva6](https://github.com/openhwgroup/cva6) (R) :star:
+* [cva6](https://github.com/openhwgroup/cva6)
   * Linux capable RISC-V CPU
 * [cve2](https://github.com/openhwgroup/cve2)
   * Small two-stage 32 bit RISC-V CPU core (RV32IMC/EMC)
@@ -865,7 +864,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * RV32IMFCX RISC-V 4-stage compute RISC-V CPU
 * [cvw](https://github.com/openhwgroup/cvw)
   * Configurable RISC-V Processor for RISC-V System-on-Chip Design textbook.
-* [ibex](https://github.com/lowRISC/ibex) (R) :star:
+* [ibex](https://github.com/lowRISC/ibex)
   * Small 32 bit RISC-V CPU core
 * [lizard](https://github.com/cornell-brg/lizard)
   * Cornell modular RV64IM Out-of-Order Processor Built with PyMTL
@@ -879,9 +878,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Customizable and highly extensible MCU-class 32-bit RISC-V (VHDL)
 * [openxiangshan](https://github.com/OpenXiangShan/XiangShan)
   * Open-source high-performance RISC-V processor
-* [picorv32](https://github.com/YosysHQ/picorv32) (R) :star:
+* [picorv32](https://github.com/YosysHQ/picorv32)
   * Size-Optimized RISC-V CPU
-* [rocket-chip](https://github.com/chipsalliance/rocket-chip) (R) :star:
+* [rocket-chip](https://github.com/chipsalliance/rocket-chip)
   * Linux capable RISC-V Rocket Chip Generator
 * [rioschip](https://github.com/b224hisl/rioschip)
   * Out of order RISC-V core
@@ -917,15 +916,15 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Parametric floating-point unit
 * [hdl](https://github.com/analogdevicesinc/hdl)
   * Library of Analog Deveices specific components
-* [lambdalib](https://github.com/siliconcompiler/lambdalib) (R) :star:
+* [lambdalib](https://github.com/siliconcompiler/lambdalib)
   * Hardware abstraction library
-* [lambdapdk](https://github.com/siliconcompiler/lambdapdk) (R) :star:
+* [lambdapdk](https://github.com/siliconcompiler/lambdapdk)
   * Library of open source Process Design Kits (PDKs)
 * [libsv](https://github.com/bensampson5/libsv)
   * Parameterized SystemVerilog digital hardware library
 * [mathlib](https://github.com/asfigo/mathlib)
   * SystemVerilog MathLib
-* [oh](https://github.com/aolofsson/oh) (R) :star:
+* [oh](https://github.com/aolofsson/oh)
   * Library of Verilog components
 * [pztb-core](https://github.com/pezy-computing/pztb-core)
   * Collection of class libraries for testbench development

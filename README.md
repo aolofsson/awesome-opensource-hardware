@@ -1058,3 +1058,5 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Open source EDA resources
 * [semiconduoctor-startups](https://github.com/aolofsson/awesome-semiconductor-startups)
   * Semiconductor startups
+* [joamateb](https://github.com/joamatab/awesome_photonics)
+  * Photonics

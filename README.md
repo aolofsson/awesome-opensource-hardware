@@ -103,6 +103,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Build-system generator for ASIC and FPGA design-space exploration.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Modular distributed build system for hardware
+* [SoCMake](https://github.com/HEP-SoC/SoCMake)
+  * Hardware and software build system and package manager based on CMake
 
 ## Circuit Compilers
 * [abc](https://github.com/berkeley-abc/abc)

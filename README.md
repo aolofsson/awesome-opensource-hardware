@@ -516,8 +516,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Generic and open source machine emulator
 * [sax](https://github.com/flaport/sax)
   * S-parameter based frequency domain circuit simulation
+* [SimEng](https://github.com/UoB-HPC/SimEng)
+  * Fast, easily modifiable, cycle-level CPU simulator framework supporting RV64 and AArch64—integrating with SST
 * [simulide](https://github.com/SimulIDE/SimulIDE)
   * SimulIDE is a simple real-time electronic circuit simulator
+* [SST](https://github.com/sstsimulator/sst-core)
+  * Simulation platform to connect multiple simulated hardware objects
 * [systemc-components](https://github.com/Minres/SystemC-Components)
   * SystemC simulation productivity library
 * [tiny-five](https://github.com/OpenMachine-ai/tinyfive)

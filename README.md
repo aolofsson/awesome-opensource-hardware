@@ -728,6 +728,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Opwn, modular, deep learning accelerator
 * [verigood-ml](https://github.com/VeriGOOD-ML/public)
   * Verilog Generator, Optimized for Designs for Machine Learning
+* [Viterbi](https://github.com/Archit-halder/Viterbi-Algorithm)
+  * Viterbi encoder/decoder (2,1,4)
+* [Viterbi](https://github.com/jfoshea/Viterbi-Decoder-in-Verilog)
+  * Viterbi decoder (2,1,3) (3,2,2) (2,1,3) (3,2,2)
 * [verigpu](https://github.com/hughperkins/VeriGPU)
   * OpenSource GPU, loosely based on RISC-V ISA
 * [verilog-lfsr](https://github.com/alexforencich/verilog-lfsr)

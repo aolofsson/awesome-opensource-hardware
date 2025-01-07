@@ -103,6 +103,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Build-system generator for ASIC and FPGA design-space exploration.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Modular distributed build system for hardware
+* [SoCMake](https://github.com/HEP-SoC/SoCMake)
+  * Hardware and software build system and package manager based on CMake
 
 ## Circuit Compilers
 * [abc](https://github.com/berkeley-abc/abc)
@@ -926,6 +928,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemVerilog MathLib
 * [oh](https://github.com/aolofsson/oh)
   * Library of Verilog components
+* [Open Logic](https://github.com/open-logic/open-logic)
+  * Vendor Independent FPGA Standard Library with focus on quality (documentation, 100% test coverage, quality metrics)
+  * Written in VHDL but usable from Verilog as well (System Verilog tutorials available)
 * [pztb-core](https://github.com/pezy-computing/pztb-core)
   * Collection of class libraries for testbench development
 * [pzbcm](https://github.com/pezy-computing/pzbcm)

@@ -97,10 +97,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Agile physical design component part of UC Berkeley Chipyard framework.
 * [hwtbuildsystem](https://github.com/Nic30/hwtBuildsystem)
   * Library of utils for interaction with the vendor tools.
-* [legohdl](https://github.com/c-rus/legoHDL)
-  * Command line HDL package manager and development tool.
 * [mflowgen](https://github.com/mflowgen/mflowgen)
   * Build-system generator for ASIC and FPGA design-space exploration.
+* [orbit](https://github.com/chaseruskin/orbit)
+  * Package manager and build tool for HDLs.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Modular distributed build system for hardware
 * [SoCMake](https://github.com/HEP-SoC/SoCMake)

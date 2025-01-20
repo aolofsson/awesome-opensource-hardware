@@ -752,7 +752,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## AXI
 * [axi](https://github.com/pulp-platform/axi)
-  * AXI SystemVerilog synthesizable IP
+  * (Pulp) AXI SystemVerilog synthesizable IP
 * [axi-crossbar](https://github.com/dpretet/axi-crossbar)
   * AXI4 crossbar implemented in SystemVerilog
 * [cocotbext-axi](https://github.com/alexforencich/cocotbext-axi)
@@ -762,7 +762,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
   * UVM based AMBA AXI VIP
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
-  * Verilog AXI stream components for FPGA implementation
+  * (Forencich) Verilog AXI stream components for FPGA implementation
 * [wb2axip](https://github.com/ZipCPU/wb2axip)
   * AXI-Wishbone bus bridges
 

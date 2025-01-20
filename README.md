@@ -41,6 +41,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Designs & Generators
   * [Accelerators](#accelerators)
+  * [AIB](#aib)
+  * [AXI](#axi)
   * [Analog circuits](#analog-circuits)
   * [Chip packaging](#chip-packages)
   * [Boards](#board-designs)
@@ -602,10 +604,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Demo system for libsystemctlm-soc library
 * [sv_waveterm](https://github.com/PeterMonsson/sv_waveterm)
   * Generate text waves in simulation log file
-* [tvip-apb](https://github.com/taichi-ishitani/tvip-apb)
-  * UVM based AMBA APB VIP
-* [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
-  * UVM based AMBA AXI VIP
+
 * [uvvm](https://github.com/UVVM/UVVM)
   * Library for making very structured VHDL-based testbenches.
 * [v2k-top](https://github.com/kev-cam/v2k-top)
@@ -739,6 +738,30 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [vortex](https://github.com/vortexgpgpu/vortex)
   * Full-system RISCV-based GPGPU processor
 
+## AIB
+* [aib](https://github.com/chipsalliance/aib-phy-hardware)
+  * Advanced Interface Bus (AIB) die to die hardware
+* [aib-protocols](https://github.com/chipsalliance/aib-protocols)
+  * Advanced Interface Bus (AIB) Protocol IP
+* [axi4_aib_bridge](https://github.com/lmco/axi4_aib_bridge)
+  * AXI4/AIB Bridge RTL
+
+## AXI
+* [axi](https://github.com/pulp-platform/axi)
+  * AXI SystemVerilog synthesizable IP
+* [axi-crossbar](https://github.com/dpretet/axi-crossbar)
+  * AXI4 crossbar implemented in SystemVerilog
+* [cocotbext-axi](https://github.com/alexforencich/cocotbext-axi)
+  * AXI interface modules for Cocotb
+* [tvip-apb](https://github.com/taichi-ishitani/tvip-apb)
+  * UVM based AMBA APB VIP
+* [tvip-axi](https://github.com/taichi-ishitani/tvip-axi)
+  * UVM based AMBA AXI VIP
+* [verilog-axis](https://github.com/alexforencich/verilog-axis)
+  * Verilog AXI stream components for FPGA implementation
+* [wb2axip](https://github.com/ZipCPU/wb2axip)
+  * AXI-Wishbone bus bridges
+
 ## Analog Circuits
 * [ams_kgd](https://github.com/USCPOSH/AMS_KGD)
   * Repository for Known Good Analog Designs (KGDs)
@@ -766,14 +789,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Collection of open source boards from Adapteva
 
 ## Connectivity
-* [aib](https://github.com/chipsalliance/aib-phy-hardware)
-  * Advanced Interface Bus (AIB) die to die hardware
-* [aib-protocols](https://github.com/chipsalliance/aib-protocols)
-  * Advanced Interface Bus (AIB) Protocol IP
-* [axi](https://github.com/pulp-platform/axi)
-  * AXI SystemVerilog synthesizable IP
-* [axi4_aib_bridge](https://github.com/lmco/axi4_aib_bridge)
-  * AXI4/AIB Bridge RTL
 * [bsg_ddr3_io](https://github.com/bespoke-silicon-group/bsg_ddr3_io)
   * BaseJump DDR3 I/O Design
 * [core_ddr3_controller](https://github.com/ultraembedded/core_ddr3_controller)
@@ -820,8 +835,6 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Verilog implementation of the USB Device Class Specification for Device Firmware Upgrade (DFU), version 1.1
 * [umi](https://github.com/zeroasiccorp/umi)
   * Universal Memory Interface
-* [verilog-axis](https://github.com/alexforencich/verilog-axis)
-  * Verilog AXI stream components for FPGA implementation
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
   * Verilog Ethernet components for FPGA implementation
 * [verilog-i2c](https://github.com/alexforencich/verilog-i2c)
@@ -910,6 +923,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Open-source FPGA research and prototyping framework
 
 ## Libraries
+* [async_fifo](https://github.com/dpretet/async_fifo)
+  * Dual clock asynchronous FIFO
 * [basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
   * Library of SystemVerilog components
 * [basic_verilog](https://github.com/pConst/basic_verilog)

@@ -99,10 +99,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Agile physical design component part of UC Berkeley Chipyard framework.
 * [hwtbuildsystem](https://github.com/Nic30/hwtBuildsystem)
   * Library of utils for interaction with the vendor tools.
-* [legohdl](https://github.com/c-rus/legoHDL)
-  * Command line HDL package manager and development tool.
 * [mflowgen](https://github.com/mflowgen/mflowgen)
   * Build-system generator for ASIC and FPGA design-space exploration.
+* [orbit](https://github.com/chaseruskin/orbit)
+  * Package manager and build tool for HDLs.
 * [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
   * Modular distributed build system for hardware
 * [SoCMake](https://github.com/HEP-SoC/SoCMake)
@@ -518,8 +518,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Generic and open source machine emulator
 * [sax](https://github.com/flaport/sax)
   * S-parameter based frequency domain circuit simulation
+* [SimEng](https://github.com/UoB-HPC/SimEng)
+  * Fast, easily modifiable, cycle-level CPU simulator framework supporting RV64 and AArch64—integrating with SST
 * [simulide](https://github.com/SimulIDE/SimulIDE)
   * SimulIDE is a simple real-time electronic circuit simulator
+* [SST](https://github.com/sstsimulator/sst-core)
+  * Simulation platform to connect multiple simulated hardware objects
 * [systemc-components](https://github.com/Minres/SystemC-Components)
   * SystemC simulation productivity library
 * [tiny-five](https://github.com/OpenMachine-ai/tinyfive)

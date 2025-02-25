@@ -78,6 +78,17 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [probe3.0](https://github.com/ABKGroup/PROBE3.0)
   * Process/design DTCO path finding technology
 
+# AI
+
+* [AnalogCoder](https://github.com/laiyao1/AnalogCoder)
+ * Analog Circuit Design via Training-Free Code Generation
+* [hagent](https://github.com/masc-ucsc/hagent)
+ * hardware agent
+* [Masala-CHAI](https://github.com/jitendra-bhandari/Masala-CHAI)
+ * Large-Scale SPICE Netlist Dataset for Analog Circuits
+
+
+
 # Compilers
 
 ## Build Systems
@@ -342,8 +353,16 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * PCB auto-router
 * [kicad](https://github.com/KiCad/kicad-source-mirror)
   * Board design framework
+* [kicad-skip](https://github.com/psychogenic/kicad-skip)
+  * kicad s-expression schematic/layout file manipulation
 * [kicanvas](https://github.com/theacodes/kicanvas)
   * KiCAD web viewer
+* [kicad-footprint-generator](https://gitlab.com/kicad/libraries/kicad-footprint-generator)
+  * kicad footprint generator using python scripts
+* [kicad-library-utils](https://gitlab.com/kicad/libraries/kicad-library-utils)
+  * scripts for helping with library development
+* [kikit](https://github.com/yaqwsx/KiKit)
+  * Automation tools for kicad
 * [librepcb](https://github.com/LibrePCB/LibrePCB)
   * Board design framework
 * [pcbflow](https://github.com/michaelgale/pcbflow)
@@ -402,6 +421,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Digital timing diagram rendering engine
 * [wavedrompy](https://github.com/wallento/wavedrompy)
   * Python comptabled Wavedrom module
+* [wireviz](https://github.com/wireviz/WireViz)
+  * Docuyment cables and wiring harnesses
+
 
 ## FPGA Design
 * [byteman](https://github.com/FPGA-Research-Manchester/byteman)
@@ -450,6 +472,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 ## Register Design
 * [gen_registers](https://github.com/lsteveol/gen_registers)
   * Python based tool for generating hardware registers and their associated files
+* [hdl-registers](https://github.com/hdl-registers/hdl-registers)
+  * Fast HDL register code generator
 * [rggen](https://github.com/rggen/rggen)
   * Configuration and status register generator
 * [open-register-design-tool](https://github.com/Juniper/open-register-design-tool)

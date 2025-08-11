@@ -1022,6 +1022,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Fast Analysis of LTE Control channels
 * [hero](https://github.com/pulp-platform/hero)
   * FPGA-based research platform for heterogeneous design
+* [Keycard Shell](https://github.com/keycard-tech/keycard-shell/)
+  * Air-gapped JavaCard signer with display & keypad
 * [litex](https://github.com/enjoy-digital/litex)
   * SoC builder framework
 * [metroboy](https://github.com/aappleby/metroboy)

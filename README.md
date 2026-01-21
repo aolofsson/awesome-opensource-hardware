@@ -90,6 +90,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
  * AI-powered SPICE circuit generation with real-time ngspice validation ([demo](https://ohmai-761803298484.us-central1.run.app/))
 * [PCB-Thermal-AI](https://github.com/tusharpathaknyu/PCB-Thermal-AI)
  * ML-based PCB temperature prediction from layout features ([demo](https://pcb-thermal-ai-761803298484.us-central1.run.app/))
+* [PowerElecLLM](https://github.com/tusharpathaknyu/PowerElecLLM)
+ * Benchmark and evaluation framework for LLMs on power electronics design (650 problems, ngspice validation)
 * [UVMForge](https://github.com/tusharpathaknyu/UVMForge)
  * LLM-powered UVM testbench generator from natural language specifications ([demo](https://uvmforge-761803298484.us-central1.run.app/))
 

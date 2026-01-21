@@ -86,6 +86,12 @@ A curated list of awesome open source hardware tools, generators, and reusable d
  * hardware agent
 * [Masala-CHAI](https://github.com/jitendra-bhandari/Masala-CHAI)
  * Large-Scale SPICE Netlist Dataset for Analog Circuits
+* [OhmAI](https://github.com/tusharpathaknyu/OhmAI)
+ * AI-powered SPICE circuit generation with real-time ngspice validation ([demo](https://ohmai-761803298484.us-central1.run.app/))
+* [PCB-Thermal-AI](https://github.com/tusharpathaknyu/PCB-Thermal-AI)
+ * ML-based PCB temperature prediction from layout features ([demo](https://pcb-thermal-ai-761803298484.us-central1.run.app/))
+* [UVMForge](https://github.com/tusharpathaknyu/UVMForge)
+ * LLM-powered UVM testbench generator from natural language specifications ([demo](https://uvmforge-761803298484.us-central1.run.app/))
 
 
 

@@ -108,6 +108,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Package manager and build abstraction tool for FPGA/ASIC development.
 * [hammer](https://github.com/ucb-bar/hammer)
   * Agile physical design component part of UC Berkeley Chipyard framework.
+* [hbs](https://github.com/m-kru/hbs)
+  * Tcl-based, minimal common abstraction build system for hardware design projects.
 * [hwtbuildsystem](https://github.com/Nic30/hwtBuildsystem)
   * Library of utils for interaction with the vendor tools.
 * [mflowgen](https://github.com/mflowgen/mflowgen)

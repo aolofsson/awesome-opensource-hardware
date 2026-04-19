@@ -772,6 +772,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Full-system RISCV-based GPGPU processor
 
 ## AIB
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [aib](https://github.com/chipsalliance/aib-phy-hardware)
   * Advanced Interface Bus (AIB) die to die hardware
 * [aib-protocols](https://github.com/chipsalliance/aib-protocols)
@@ -779,6 +780,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 * [axi4_aib_bridge](https://github.com/lmco/axi4_aib_bridge)
   * AXI4/AIB Bridge RTL
 
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 ## AXI
 * [axi](https://github.com/pulp-platform/axi)
   * (Pulp) AXI SystemVerilog synthesizable IP

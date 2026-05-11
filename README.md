@@ -198,6 +198,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python based hardware description and verification language
 * [naja](https://github.com/xtofalex/naja)
   * Structural Netlist API for EDA post synthesis flow development
+* [ordec](https://github.com/tub-msc/ordec)
+  * Open-source custom IC design platform with ORD HDL for analog/mixed-signal circuits
 * [netlist-paths](https://github.com/jameshanlon/netlist-paths)
   * A library and command-line tool for querying a Verilog netlist
 * [panda-bambu](https://github.com/ferrandi/PandA-bambu)

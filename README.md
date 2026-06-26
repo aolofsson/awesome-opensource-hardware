@@ -172,6 +172,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Hardware Description Library
 * [hdlconvertor](https://github.com/Nic30/hdlConvertor)
   * Verilog/VHDL parser preprocessor and code generator for C++/Python based on ANTL4
+* [holoso](https://github.com/Zubax/holoso)
+  * High-level synthesis of Verilog from idiomatic Python for numerical/DSP applications
 * [hs-to-coq](https://github.com/plclub/hs-to-coq)
   * Convert Haskell source code to Coq source code
 * [ipyxact](https://github.com/olofk/ipyxact)

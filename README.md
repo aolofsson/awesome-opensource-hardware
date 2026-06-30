@@ -349,6 +349,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Experimental procedural PCB layout program
 * [datasheet-scrubber](https://github.com/idea-fasoc/datasheet-scrubber)
   * Scrubs PDF datasheets/documents in order to extract key circuit information
+* [eda-agent](https://github.com/salitronic/eda-agent)
+  * Open-source MCP server that automates Altium Designer for schematic, PCB, library and project tasks
 * [freecad](https://github.com/FreeCAD/FreeCAD)
   * 3D parametric CAD system
 * [freerouting](https://github.com/freerouting/freerouting)

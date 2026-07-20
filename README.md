@@ -242,6 +242,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Translates synthesizable SystemC to synthesizable Verilog
 * [synlig](https://github.com/chipsalliance/synlig)
   * SystemVerilog support for Yosys
+* [synth-explorer](https://github.com/cachanova/synth-explorer)
+  * Browser-based Compiler Explorer for RTL that runs Yosys and GHDL in WebAssembly to synthesize and inspect netlists client-side
 * [tapasco](https://github.com/esa-tu-darmstadt/tapasco)
   * Heterogeneous system composer
 * [tce](https://github.com/cpc/tce)

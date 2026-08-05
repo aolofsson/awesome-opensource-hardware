@@ -292,6 +292,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Platform for chip design and layout
 * [gds3d](https://github.com/trilomix/GDS3D)
   * Render GDS files in 3D
+* [gds-lens](https://github.com/EthanLowenthal/GDS-Lens)
+  * VS Code extension for viewing GDSII and OASIS layouts
 * [gdsiistl](https://github.com/dteal/gdsiistl)
   * Converts GDSII files to STL files
 * [gdstk](https://github.com/heitzmann/gdstk)

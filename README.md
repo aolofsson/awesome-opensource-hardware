@@ -632,6 +632,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * ROHD-based verification and testbench framework in Dart.
 * [switchboard](https://github.com/zeroasiccorp/switchboard/)
   * Communication framework for RTL simulation and emulation
+* [sv-timing](https://github.com/etcimon/GSys-LibreCore/tree/master/sv-timing)
+  * Rust structural FO4 timing estimator for SystemVerilog RTL, with path ranking and review-only auto-correct (pre-STA screening)
 * [svreal](https://github.com/sgherbst/svreal)
   * Synthesizable real number library in SystemVerilog (fixed & floating point formats)
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo)

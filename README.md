@@ -369,6 +369,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Board design framework
 * [pcbflow](https://github.com/michaelgale/pcbflow)
   * Python based Printed Circuit Board (PCB) layout and design package based on CuFlow
+* [ziro-designer](https://github.com/ZiroEDA/ziro-designer)
+  * KiCad 10 ported to the browser (schematic and PCB editors, TypeScript, GPL-3.0)
 
 ## Digital Design
 * [digital](https://github.com/hneemann/Digital)

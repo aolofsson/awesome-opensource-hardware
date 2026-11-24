@@ -670,6 +670,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Eclipse plugins to display VCD (e.g. created by SystemC VCD trace).
 * [d3wave](https://github.com/Nic30/d3-wave)
   * D3.js based wave (signal) visualizer
+* [graticule](https://github.com/SunSinD/Graticule)
+  * Browser and CLI tool that turns oscilloscope screenshots into clean vector plots, CSV data, measurements, XY, FFT, and Bode plots
 * [gtkwave](https://github.com/gtkwave/gtkwave)
   * GTK+ based VCD waveform viewer
 * [iio-oscilloscope](https://github.com/analogdevicesinc/iio-oscilloscope)
